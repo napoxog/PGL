@@ -1,0 +1,1550 @@
+|"Product"|"Description"||"Type"|"License Features"|"Companion Product License Features"|||||
+"DPI-11997"|"2D Converted Wave Pre-stack Time and Depth - NexGen"|"2D Kirchhoff Converted Wave Time and Depth Pre-stack and Post-stack Migrations"|"AO"|"Add-on a GeoDepth"|"2DKCWPSDM_CPU"||||||
+"DPI-12005"|"2D CRAM - NexGen"|"2D Common Reflection Angle Pre-stack Depth Migration
+Cores are shared with other Kirchhoff Migrations, 2D CRAM Migrations, and Wave Equation (Common Shot PSPCPI) Migrations."|"AO"|"Add-on a GeoDepth"|"2DCRAM
+3DMIG_CT"||||||
+"DPI-1951"|"2D K. Converted Wave Pre-stack Time/Depth"|"2D Kirchhoff Converted Wave Time and Depth Pre-stack and Post-stack Migrations"|"AO*"|"Add-on to GeoDepth"|"2DKCWPSDM_CPU"||||||
+"DPI-11994"|"2D Pre-stack Time and Depth - NexGen"|"2D Pre-stack Kirchhoff Time and Kirchhoff & FX Depth Migrations 
+Comment: FX migration is not parallelized for distributed memory platforms."|"AO"|"Add-on a GeoDepth"|"2DPreStackMig_CPU"||||||
+"DPI-11995"|"2D Pre-stack Time and Depth (3 Users) - NexGen"|"2D Pre-stack Kirchhoff Time and Kirchhoff & FX Depth Migrations (3 Users) 
+Comment: FX migration is not parallelized for distributed memory platforms."|"AO"|"Add-on a GeoDepth"|"2DPreStackMig_CPU"||||||
+"DPI-11996"|"2D Pre-stack Time and Depth (5 Users) - NexGen"|"2D Pre-stack Kirchhoff Time and Kirchhoff & FX Depth Migrations (5 Users)
+Comment: FX migration is not parallelized for distributed memory platforms."|"AO"|"Add-on a GeoDepth"|"2DPreStackMig_CPU"||||||
+"ED-1005"|"2D Restoration (Kine3D-2)"|"Cross section restoration, balanced cross section, map  unfolding, and  multi-map restoration. Flexural slip (isopach, variable thickness, pin line, any target);  simple shear; flow; rigid rotation of blocks; compaction/decompaction.
+(In cooperation with IFP)."|"AO"|"Add-on to Advanced Structural Analysis (Kine3D-1)"|"kine3d_2_gui
+kine3d_2_surfacic
+Kine3d_2_xsection"||||||
+"DPI-11998"|"2D Wave Equation Pre-stack Time/Depth (Common Shot) - NexGen"|"2D Wave Equation Pre-stack Time and Depth Migrations 
+(Common Shot)"|"AO"|"Add-on a GeoDepth"|"2DFWCSPSDM_CPU"||||||
+"DPI-11999"|"2D Wave Equation Pre-stack Time/Depth (Common Shot) (3 Users) - NexGen"|"2D Wave Equation Pre-stack Time and Depth Migrations 
+(Common Shot) (3 Users)"|"AO"|"Add-on a GeoDepth"|"2DFWCSPSDM_CPU"||||||
+"DPI-12000"|"2D Wave Equation Pre-stack Time/Depth (Common Shot) (5 Users) - NexGen"|"2D Wave Equation Pre-stack Time and Depth Migrations 
+(Common Shot) (5 Users)"|"AO"|"Add-on a GeoDepth"|"2DFWCSPSDM_CPU"||||||
+"DPI-11990"|"3D CRAM - NexGen"|"3D Common Reflection Angle Migration - Imaging in the local angle domain. 
+Unrestricted Users License Model
+Cores are shared with EarthStudy 360 Imager."|"AO"|"Add-on a GeoDepth"|"3DCRAM
+ES360_Imager_CT"|"128 Cores"|||||
+"DPI-11912"|"3D CRAM and EarthStudy 360 Imager
+ - Additional CPU Cores"|"Additional CPU Cores for 3D CRAM and EarthStudy 360 Imager Configurations  "|"AO"|"Add-on to 3D CRAM"|"ES360_Imager_CT"|"Requires PG 2011
+Per PCU (1 PCU = 4 CPU Cores)"|||||
+"DPI-11982"|"3D Grid Tomo - NexGen"|"3D Grid Tomography
+Unrestricted users license model.
+Cores are shared with other 3D Tomography utilities.
+
+"|"AO"|"Add-on a GeoDepth"|"TOMOGRID3D
+3DTOMO_CT"||||||
+"DPI-11987"|"3D K. PSDM  (Fermat/Eikonal/Wavefront) - NexGen"|"3D Kirchhoff PSDM (Fermat, Eikonal and Wavefront Traveltimes) with VTI Anisotropy Support
+Unrestricted users license model.
+Cores are shared with other Kirchhoff Migrations, 2D CRAM Migrations, and Wave Equation (Common Shot PSPCPI) Migrations."|"AO"|"Add-on a GeoDepth"|"3DKPSDMFE
+3DKPSDMWF
+3DMIG_CT"||||||
+"DPI-11986"|"3D K. PSTM - NexGen"|"Kirchhoff 3D Imaging Kernel (3D Pre-stack Time Migration)
+Unrestricted users license model.
+Cores are shared with other Kirchhoff Migrations, 2D CRAM Migrations, and Wave Equation (Common Shot PSPCPI) Migrations."|"AO"|"Add-on a GeoDepth"|"3DKPSTM
+3DMIG_CT"||||||
+"DPI-11983"|"3D Layer Tomo - NexGen"|"3D Layer Tomography
+Unrestricted users license model.
+Cores are shared with other 3D Tomography utilities.
+
+"|"AO"|"Add-on a GeoDepth"|"TOMOLAYER3D
+3DTOMO_CT"||||||
+"ED-1984"|"3D Magellan Mouse"|"Replace many 2D mouse movements by an intuitive, ergonomic 3D mouse control."|"AO"|"Add-on to all GOCAD Products"|"go4space"||||||
+"DPI-12003"|"3D Post-stack Time and Depth - NexGen"|"3D Post-stack Time and Depth Migrations
+Works on Shared memory only (besides 3D K. Post-stack Migration)"|"AO"|"Add-on a GeoDepth"|"3DPostStackMig_CPU"||||||
+"ED-1006"|"3D Restoration (Kine3D-3)"|"Volumetric restoration (geometrical and Finte Element geomechanics), elastic relaxation, slip of faults and horizons, stress ellipsoid prediction,  strain stress/strain direction/values, strain minimization. (In cooperation with IFP)."|"AO"|"Add-on to Advanced Structural Analysis (Kine3D-1)"|"kine3d_3_gui
+tessel3d_core
+tessel3d_gui"||||||
+"DPI-11981"|"3D Tomo - NexGen"|"3D Grid and Layer Tomography
+Unrestricted users license model.
+Cores are shared with other 3D Tomography utilities..
+"|"AO"|"Add-on a GeoDepth"|"TOMOGRID3D
+TOMOLAYER3D
+3DTOMO_CT"||||||
+"ED-1988"|"3D Viewer"|"Import and visualize 3D datasets and models."|"P"|"Product"|"gocad_base
+gocad_viewer"||||||
+"DPI-12004"|"3D Wave Equation PSDM (Narrow Azimuth) - NexGen"|"3D Wave Equation PSDM (Narrow Azimuth)
+Comment: Narrow Azimuth migration is not parallelized for distributed memory platforms. Works on Shared memory only."|"AO"|"Add-on a GeoDepth"|"3DFWCAPSDM_CPU"||||||
+"DPI-11988"|"3D Wave Equation PSTM and PSDM (Common Shot PSPCPI) - NexGen"|"3D Wave Equation PSTM and PSDM (Common Shot PSPCPI)
+Unrestricted Users License Model
+Cores are shared with other Kirchhoff Migrations, 2D CRAM Migrations, and Wave Equation (Common Shot PSPCPI) Migrations."|"AO"|"Add-on a GeoDepth"|"3DCSPSTM
+3DFWCSPSDM
+3DMIG_CT"||||||
+"VI-11951"|"Additional Cores for Seismic Attribute Computation"|"Additional CPU Cores for Seismic Attribute Packages: ComplexAttr, DirectionAttr, ContinuityAttr, SpecDecompAttr, CurvatureAttr and ComprehensiveAttr and Dip Steered Enhancement Attr"|"AO*"|"Seismic Attribute Packages"|"SEIS_ATTR_CT"||||||
+"DPI-11916"|"Additional Nodes for GeoDepth Processing Apps"|"Additional Nodes for GeoDepth Trace Processing Applications (NMO, Stack, etc.)
+Performance improvements are relevant for up to to 10 nodes per user."|"AO"|"Add-on to GeoDepth"|"TRACE_PROC_CT"|"Requires PG 2011"|||||
+"EP-11889"|"Additional WAM Client License"|"Additional WAM Client License
+"|"AO"|"WAM Add-on"|"WAM"||||||
+"RCP-1713"|"Advanced Pre-stack Interpreter"|"Seismic Fluid and Lithology Toolbox 
+(Includes: multi-disciplinary crossplotting, AVO modeling and pre-stack gather analysis)"|"AO*"|"Add-on to VoxelGeo VI & XV "|"ProbeVI"||||||
+"ED-1004"|"Advanced Structural Analysis (Kine3D-1)"|"Quantitative exploration of structures: layer thicknesses, shortening and/or extension, strain tensor,  Schmidt and Wullf diagrams,  etc. Isopach surface construction.  Enhanced dip constraint for horizon construction, DEM manipulation. (In cooperation with IFP)."|"AO"|"Add-on to GOCAD Structural Modeling"|"kine3d_1
+kine3d_1_gui"||||||
+"VI-1153"|"Advanced Synthetics"|"Advanced Synthetic Seismogram Generation including multi-well synthetics, fluid substitution modeling, wavelet extraction, rock physics, etc."|"AO*"|"Add-on to all SeisEarth Configurations and VoxelGeo VLI+"|"AdvancedSynt_AO"||||||
+"VI-1847"|"AFE (Automatic Fault Extraction)"|"Automated tool for Identifying and Extracting Geologic Discontinuities from Seismic Volumes
+
+"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigation, SeisEarth Configurations"|"AFE"|"Companion Product to SeisEarth LI+
+AFE_CP"|||||
+"VI-11716"|"AFE Planar Cluster Analysis"|"Cluster fault polylines from AFE into fault polyline groups
+
+"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigation, SeisEarth Configurations"|"AFE_PlanarClustering_AO"||||||
+"EP-0120"|"Artist"|"Plotting and Montage Creation"|"AO*"|"Add-on to Geolog"|"Float_Artist"||||||
+"ED-11900"|"Basic GOCAD Developer Add-on (Per Developer)"|"Foundation Modeling, Velocity Modeling Time-to-Depth development kit (includes files, documentation, examples) for developing GOCAD plug-ins or independent batch program.  "|"AO"|"DevKit - Requires Velocity Modeling 
+or a Basic GOCAD Run Time License "|"gocad_devtools_dsl"||||||
+"ED-1003"|"Basic GOCAD Developer Package (Per Developer)"|"Foundation Modeling, Velocity Modeling Time-to-Depth development kit (includes files, documentation and examples) for developing GOCAD plug-ins;  includes 3D Viewer, Foundation Modeling, Velocity Modeling Time-to-Depth for testing."|"P"|"DevKit"|"gocad_base_dsl
+gocad_core_dsl
+gocad_devtools_dsl
+gocad_gen_data_analysis_dsl
+gocad_geostat_dsl
+gocad_gui_dsl
+gocad_surface_dsl
+gocad_timedepth_dsl
+gocad_velmodel_dsl
+gocad_viewer_dsl
+gocad_volume_dsl"||||||
+"ED-1089"|"Basic GOCAD Developer Package Add-on (Shared)"|"Foundation Modeling, Velocity Modeling Time-to-Depth development kit (includes files, documentation, examples) for developing GOCAD plug-ins or independent batch program."|"AO"|"DevKit - Requires Velocity Modeling or a Basic GOCAD Run Time License "|"gocad_base_dsl
+gocad_core_dsl
+gocad_devtools_dsl
+gocad_gen_data_analysis_dsl
+gocad_geostat_dsl
+gocad_gui_dsl
+gocad_surface_dsl
+gocad_timedepth_dsl
+gocad_velmodel_dsl
+gocad_viewer_dsl
+gocad_volume_dsl"||||||
+"ED-1076"|"Basic GOCAD Developer Package Stand-alone (Shared)"|"Foundation Modeling, Velocity Modeling Time-to-Depth development kit (includes files, documentation, examples) for developing GOCAD plug-ins or independent batch program; includes 3D Viewer, Foundation Modeling, Velocity Modeling Time-to-Depth for testing."|"P"|"DevKit"|"gocad_base_dsl
+gocad_core_dsl
+gocad_devtools_dsl
+gocad_gen_data_analysis_dsl
+gocad_geostat_dsl
+gocad_gui_dsl
+gocad_surface_dsl
+gocad_timedepth_dsl
+gocad_velmodel_dsl
+gocad_viewer_dsl
+gocad_volume_dsl"||||||
+"ED-1968"|"Basic GOCAD Run Time License"|"Foundation Modeling, Velocity Modeling and Time-to-Depth Conversion functions; no user interface"|"P"|"Run time"|"gocad_base_rtl
+gocad_core_rtl
+gocad_gen_data_analysis_rtl
+gocad_geostat_rtl
+gocad_surface_rtl
+gocad_timedepth_rtl
+gocad_velmodel_rtl
+gocad_volume_rtl"||||||
+"ED-11899"|"Basic SKUA Developer Package (Per Developer)"|"API access to construction of fault network, horizons, geological grid, and flow simulation grids. API Access to geologic grid and flow simulation grid data structures."||"AO"|"DevKit - Requires GOCAD Basic Developer Package. 
+Requires (SKUA Structure, SKUA Stratigraphy and Fault Analysis and/or SKUA Flow Simulation Grid) or (SKUA Stucture Run Time License, SKUA Stratigraphy Run Time License and/or SKUA Run Time License)"||||||
+"ED-1105"|"Basic SKUA Developer Package (Shared)"|"API access to construction of fault network, horizons, geological grid, and flow simulation grids. API Access to geologic grid and flow simulation grid data structures."|"AO"|"DevKit - Requires GOCAD Basic Developer Package. Requires (SKUA Stratigraphy and Flow Simulation Grid) or SKUA Run Time License"|||||||
+"ED-1009"|"Basic Well Planning"|"Create and edit targets. Construct optimum well paths from picked targets. Optimize platform position. Estimate cost."|"AO"|"Add-on to Map, X-Section and Well Viewer"|"idp
+idp_path"||||||
+"VI-1849"|"Coherence Cube Attributes"|"Discontinuity Enhancement
+"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Echos, Geodepth"|"Attributes_CHC"|"Companion Product to SeisEarth LI+
+Attributes_CHC_CP"|||||
+"VI-11972"|"Coherence CubeAttr - Single User"|"Discontinuity Enhancement
+"|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_CHC_SU"||||||
+"VI-1701"|"Complex Attributes"|"Complex Trace and Seismic Trace Analysis Attributes"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Echos, Geodepth"|"Attributes_CT"||||||
+"VI-11964"|"ComplexAttr - Single User"|"Complex Trace and Seismic Trace Analysis Attributes"|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_CT_SU"||||||
+"VI-1705"|"Comprehensive Attributes"|"Comprehensive Attribute Bundle
+(Includes all attributes except Coherence CubeAttr)"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Echos, Geodepth"|"Attributes_ALL"|"Companion Product (ConocoPhillips ONLY)
+Attributes_ALL_CP"|||||
+"VI-11970"|"ComprehensiveAttr - Single User"|"Comprehensive Attribute Bundle
+(Includes Complex Trace and Seismic Trace Processing Attributes, Dip, Azimuth, continuity , Lightscape, Spectral Decomposition and User Defined Attributes)"|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_ALL_SU"||||||
+"VI-11966"|"ContinuityAttr (previously DiscontAttr) - Single User"|"Continuity Attribute"|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_DSC_SU"||||||
+"DPI-1943"|"Converted Wave 3D PSDM -Unrestricted Users License Model"|"Converted Wave 3D PSDM Add-on (requires DPI-1914)"|"AO"|"Add-on to 3D K. PSDM"|"3DK_CWDepth_AO"||||||
+"DPI-1942"|"Converted Wave 3D PSTM - Unrestricted Users License Model"|"Converted Wave 3D PSTM Add-on"|"AO"|"Add-on to 3D K. PSTM"|"3DK_CWTime_AO"||||||
+"EP-1140"|"CPM"|"Cluster Performance Monitoring Utility for Seismic Processing and Imaging."|"AO*"|"General Add-on; Included with Echos licenses,
+"|"CPM"||||||
+"VI-1137"|"Curvature Attributes"|"Volumetric Curvature Attribute for Structural Feature Determination"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Geodepth"|"Attributes_CURV"||||||
+"VI-11969"|"CurvatureAttr - Single User"|"Volumetric Curvature Attribute for Structural Feature Determination"|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_CURV_SU"||||||
+"VI-11948"|"Dip Steered Enhancement Attr"|"Dip Steered median filtering for enhanced interpretation and horizon picking."|"AO*"|"All VoxelGeo and SeisEarth Configurations"|"Attributes_DSE"||||||
+"VI-11971"|"Dip Steered Enhancement Attr - Single user"|"Dip Steered median filtering for enhanced interpretation and horizon picking."|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_DSE_SU"||||||
+"VI-1702"|"Direction Attributes"|"Directional and Illumination Attributes (Azimuth, Dip, Lightscape)"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Echos, Geodepth"|"Attributes_DA"||||||
+"VI-11965"|"DirectionAttr - Single User"|"Directional and Illumination Attributes (Azimuth, Dip, Lightscape). Includes also Dip Steered Attr (VI-11948)"|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_DA_SU"||||||
+"VI-1703"|"Discontinuity Attributes"|"Discontinuity Attribute"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Echos, Geodepth"|"Attributes_DSC"||||||
+"DPI-11991"|"EarthStudy 360 Imager"|"3D Full Azimuth Imaging based on the decomposition of the recorded wavefield into full azimuth reflection and directional gathers. The imager includes a single user EarthStudy 360 Processor license (DPI-11868) for analysis, stacking, selective extractions, scaling,etc. and sectional display of full azimuth reflection and directional angle gathers. The processor requires a GeoDepth license running under the Paradigm 2011 release.
+Unrestricted Users License Model. Cores are shared with 3D CRAM."|"AO"|"Add-on to GeoDepth"|"ES360_Imager
+ES360_Imager_CT
+ES360_Interactive_AO
+ES360_Processor_256
+WideEye"||||||
+"DPI-11868"|"EarthStudy 360 Processor (Additional User)"|"Generate selected angle and azimuth stacks from full azimuth reflection angle gathers. Generate specular and diffraction stacks from full azimuth direction angle gathers. Generate dip, azimuth, and continuity volumes from full azimuth direction angle gathers. Display full azimuth gathers in section view. Includes license for up to 256 cores"|"AO"|"Add-on to GeoDepth"|"ES360_Interactive_AO
+ES360_Processor_256"||||||
+"DPI-11869"|"EarthStudy 360 Visualizer"|"3D Visualization and analysis of full azimuth reflection and directional angle gathers
+"|"AO"|"Add-on to GeoDepth 
+and EarthStudy Imager"|"ES360_VIS"||||||
+"DPI-1532"|"EarthStudy Synthetics"|"2D/3D Synthetic Seismic Full Wave Modeling "|"AO*"|"Add-on to Explorer SGMV, GeoDepth"|"EarthStudy_prl"||||||
+"DPI-11977"|"Echos - NexGen"|"TIME PROCESSING
+Interactive and Production 2D/3D Seismic Processing"|"P"|"Product"|"CPM
+ECHOS
+ECHOS_CT
+ECHOS_EPOS"|"Companion Product to GeoDepth
+ECHOS_CP
+CPM
+ECHOS_EPOS"|||||
+"DPI-0185"|"Echos Active User License"|"Interactive Echos License"|"AO"|"Add-on to Echos "|"CPM
+ECHOS
+ECHOS_CT
+ECHOS_EPOS"|"added on to ECHOS_CT"|||||
+"DPI-11979"|"Echos 3D K. PSTM - NexGen"|"3D Pre-stack Time Migration - Kirchhoff 
+Unrestricted users license model.
+Cores are shared with other Kirchhoff Migrations, 2D CRAM Migrations, and Wave Equation (Common Shot PSPCPI) Migrations."|"AO"|"Add-on to Echos"|"3DKPSTM
+3DMIG_CT"||||||
+"DPI-11978"|"Echos Personal  - NexGen"|"Single User Cluster Processing Solution 
+Comment: Host-Locked License"|"C"|"Configuration"|"CPM
+ECHOS
+ECHOS_CT
+ECHOS_EPOS"||||||
+"DPI-11980"|"Echos RTM - NexGen"|"Reverse Time Migration
+Cores are added to the current number of licensed Echos Cores. Cores are  shared with other Echos jobs but not  with other Paradigm Migrations. Unlimited RTM jobs are provided. 
+Echos RTM supports GPUs, 1 GPU= 8 CPU Cores"|"AO"|"Add-on to Echos"|"ECHOS_CT
+ECHOS_RTM"||||||
+"DPI-11888"|"Echos RTM (additional cores)"|"4 Additional cores for RTM migration"|"AO*"|"Add-on to Echos "|"ECHOS_RTM
+ECHOS_CT"||||||
+"DPI-1339"|"Echos Velocity Navigator"|"Task-Oriented Velocity Analysis.  Includes time and time migrated operations performed on CRP (time migrated) or CMP offset gathers (unmigrated)
+"|"AO*"|"Add-on to Echos "|"VelNav_ECHOS"||||||
+"EP-1537"|"Echos-OpenGeo Development Kit"|"Seismic Processing System - Application Customization"|"AO"|"Echos Add-on"|"N/A"||||||
+"ED-2-18"|"ED-OpenSpirit Access link "|"Exchange objects (seismic, horizons, faults, wells, well curves and well picks) with Geoframe or OpenWorks"|"AO"|"Add-on to OpenSpirit Access"|"osplink_core"||||||
+"EP-1671"|"Epos Data Loading and QC"|"Epos Data Loading and QC Bundle for G&G Analysts Includes Data Import/Export (ASCII files, ULA, and SEG-Y) and Data QC (Well Log, Geometry View and seismic data windows)"|"P"|"Product"|"EposLoadQC
+DataServer_GC
+DataServer_GF
+DataServer_OW"||||||
+"EP-0191"|"Epos GeoFrame Link
+"|"GeoFrame Interoperability (Wells)"|"AO"|"Add-on to Geolog"|"DataServer_GF"||||||
+"EP-1547"|"Epos GOCAD Link"|"GOCAD Interoperability (Wells)"|"AO"|"Add-on to Geolog"|"DataServer_GC"||||||
+"EP-1131"|"Epos OpenSpirit® Link"|"Epos-OpenSpirit Connectivity"|"AO"|"General Add-on"|"EposOpenSpiritLink"||||||
+"EP-1618"|"Epos OpenWorks Link"|"OpenWorks Interoperability (Wells)"|"AO"|"Add-on to Geolog"|"DataServer_OW"||||||
+"ED-11897"|"Exploration Modeling Bundle (SKUA enabled)"|"This bundle provides a comprehensive and differentiating geomodeling solution based on UVT technology. It incorporates modeling with interpretation workflows, velocity modeling, prospect validation, and paleo-flattening that can be applied in all exploration projects. Individual modules can be added.
+
+Includes: 3D Viewer, Foundation Modeling,
+Multi-core support for Foundation Modeling,
+Maps Cross Section and Well Viewer, SKUA Structure,
+Multi-core support for SKUA Structure, SKUA Stratigraphy and Fault Analysis,
+Multi-core support for SKUA Stratigraphy  and Fault Analysis, Interpretation Modeling, Seismic Attribute Analysis, Multi-core support for Seismic Attribute Analysis, Velocity Modeling Time-to-depth, Multi-core support for Velocity Modeling Time-to-depth"|"P"|"Product"|"skua_interpretation_modeling"||||||
+"VI-1473"|"Explorer EM  (EarthModel)"|"Time to Depth Conversion - Maps 
+(Includes iMap)"|"C"|"Configuration"|"Explorer_EM
+DataServer_GF
+DataServer_OW"|"Companion Product version to iMap, VoxelGeo, SeisEarth, Geolog XV 
+Explorer_EM_CP"|||||
+"VI-1052"|"Explorer Gold"|"Time to Depth Conversion - Maps and Seismic Volumes, and Geostatistical Mapping
+(Includes: Explorer MV, iMap, User-Defined Volume Math Manipulations, Multi-Line Time to Depth Conversion, and Geostatistical Mapping) 
+Note: This bundle can only be quoted for sales with a minimum of five seats."|"SB"|"Sales Bundle"|"Explorer_Gold
+DataServer_GF
+DataServer_OW"||||||
+"VI-1474"|"Explorer MV (Maps & Volumes)"|"Time to Depth Conversion - Maps and Seismic Volumes 
+(Includes: iMap and User-Defined Volume Math Manipulations)"|"C"|"Configuration"|"Explorer_MV
+DataServer_GF
+DataServer_OW"||||||
+"VI-1475"|"Explorer SGMV  (SolidGeo, Maps, and Volumes) "|"Time to Depth Conversion - 3D Models, Maps and Seismic Volumes 
+(Includes: iMap, SolidGeo and User-Defined Volume Math Manipulations)"|"C"|"Configuration"|"Explorer_SGMV
+DataServer_GF
+DataServer_OW"|"Companion Product version to GeoSec 3D
+Explorer_SGMV_CP"|||||
+"ED-1008"|"Facies Modeling (formerly Object Modeling)"|"Generic object simulation (parametric shapes and user-defined composite objects using interactive object designer). "|"AO"|"Add-on to  Reservoir Properties"|"pm_object"||||||
+"RCP-1865"|"FastVEL (GeoDepth/Echos)"|"Automatic HiRes Velocity Updates based on AVO Criteria (SWAN method)"|"AO*"|"Add-on to Echos, GeoDepth"|"FastVEL"||||||
+"RCP-1851"|"FastVEL (Probe)"|"Automatic HiRes Velocity Updates based on AVO Criteria (SWAN method)"|"AO"|"Add-on to Probe"|"FastVEL_AO"||||||
+"VI-1953"|"FaultTrak"|"Fault Auto-Tracker"|"AO"|"Add-on to VoxelGeo VI , VI+ and VLI+, Reservoir  Navigator, Reservoir Navigator XV, SeisEarth LI and LI+, GeoDepth"|"FaultTrak_AO"||||||
+"VI-1138"|"Feature Enhancement Attributes"|"Coherence Cube, Discontinuity and Volumetric Curvature Attribute Bundle."|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Geodepth"|"Attributes_FESA"||||||
+"VI-11968"|"Feature EnhancementAttr - Single User"|"Coherence Cube, Continuity and Volumetric Curvature Attribute Bundle."|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_FESA_SU"||||||
+"ED-1038"|"Finite Element Mesh Constructor"|"Construct tetrahedral meshes in structurally complex environments."|"AO"|"Add-on to all GOCAD Products"|"tessel3d_core
+tessel3d_gui"||||||
+"ED-1997"|"Foundation Modeling"|"Includes base modeling functionality such as creation and editing of curves, surfaces, voxets and sgrids; includes property calculator, histogram, cross-plots, and multiple cameras. "|"AO"|"Add-on to 3D Viewer"|"gocad_gen_data_analysis
+gocad_gui
+gocad_surface
+gocad_viewer
+gocad_volume"||||||
+"ED-1999"|"Fracture Modeling (FracMV)"|"Create discrete fracture network (DFN), upscale to create facture permeability, fracture porosity, sigma properties.
+(In cooperation with Midland Valley)"|"AO"|"Add-on to  GOCAD 3D Reservoir Grid Builder or SKUA Flow Simulation Grid"|"fracmv_core
+fracmv_gui"||||||
+"DPI-11870"|"Full Azimuth Anisotropic Tomography"|"Full Azimuth Anisotropic Tomography with automatic full azimuth gather picking.
+Includes a Tomo Facilitator license."|"AO"|"Add-on to 3D Tomo
+ and 3D Grid Tomo"|"ES360_Tomo_AO
+TOMOFACIL"||||||
+"RCP-11873"|"Full Azimuth AVA Inversion"|"Full Azimuth AVA(Z) Inversion and Analysis for Fracture Detection and Reservoir Property Estimation"|"AO"|"Add-on to Probe"|"ES360_AVA_AO"||||||
+"DPI-11905"|"Full Azimuth Data Analysis"|"Includes one GeoDepth license with the EarthStudy 360 Visualizer, EarthStudy Processor, HTI Effective Parameter Inversion and Full Azimuth Illumination. Includes one Probe license with Full azimuth AVA Inversion. Includes one Grid Tomography license with Full Azimuth anisotropic tomography (256 CPU Cores) and one Tomo Facilitator license. "|"SB"||"2DPreStackMig_2
+3DPostStackMig_prl
+3DTOMO_CT
+ES360_AVA_AO
+ES360_HTI
+ES360_HTI_256
+ES360_Illum
+ES360_Illum_256
+ES360_Interactive_AO
+ES360_Processor_256
+ES360_Tomo_AO
+ES360_VIS
+Power2D3D
+Probe2D3D
+TOMOFACIL
+TOMOGRID3D"||||||
+"DPI-11875"|"Full Azimuth Illumination"|"Full azimuth illumination analysis with interactive point diffractor and CRP ray tracing. Includes batch CRP ray tracing for the creation of pencil-based ray-attributes and illumination attributes.  The pencil-based attributes are converted to maps to facilitate subsurface analysis.
+Note: The Interactive CRP Ray-Tracing is included in GeoDepth and Explorer licenses."|"AO"|"Add-on to Geodepth
+Explorer and SeisEarth"|"ES360_Illum
+ES360_Illum_256"||||||
+"DPI-11871"|"Full Azimuth Residual Moveout (RMO) Inversion for HTI Effective Parameters"|"Full azimuth residual moveout automatic picking and inversion for effective HTI parameters to determine fracture orientation and intensity"|"AO"|"Add-on to GeoDepth"|"ES360_HTI
+ES360_HTI_256"||||||
+"DPI-1270"|"GeoDepth"|"DEPTH PROCESSING
+2D/3D Velocity Model Building and Depth Imaging"|"P"|"Product"|"Power2D3D
+2DPreStackMig_2
+3DPostStackMig_prl
+DataServer_GF
+DataServer_OW"|"Companion Product to Echos
+Power2D3D_CP
+2DPreStackMig_2
+3DPostStackMig_prl"|||||
+"DPI-1268"|"GeoDepth 2D "|"2D Velocity Model Building and Depth Imaging"|"C"|"Configuration"|"Power2D
+2DPreStackMig_2
+DataServer_GF
+DataServer_OW"||||||
+"DPI-1278"|"GeoDepth EM "|"Multi-2D Line Velocity Model Building and Depth Imaging"|"C"|"Configuration"|"PowerEM
+2DPreStackMig_2
+DataServer_GF
+DataServer_OW"||||||
+"DPI-1664"|"GeoDepth Velocity Navigator"|"Task Oriented Velocity Analysis. (Includes offset and angle support, horizon and vertical based, time, time migrated, depth migrated domains.)"|"AO*"|"Add-on to GeoDepth"|"VelNav_GeoDepth"||||||
+"RCP-0138"|"Geolog CorEVAL"|"Advanced Core Analysis"|"AO"|"Add-on to Geolog"|"Float_Coreval"||||||
+"RCP-1511"|"Geolog Correlator"|"Multi-Well Correlator"|"AO"|"Add-on to Geolog"|"Float_Correlator"||||||
+"RCP-0148"|"Geolog Determin"|"Deterministic Petrophysical Analysis"|"AO"|"Add-on to Geolog"|"Float_Determin"||||||
+"RCP-0152"|"Geolog DLIS"|"Loading/Unloading of Well Data in DLIS Format"|"AO"|"Add-on to Geolog"|"Float_DLIS"||||||
+"RCP-1391"|"Geolog Facimage"|"Electrofacies Analysis and Core Data Modeling"|"AO"|"Add-on to Geolog"|"Float_Facimage"||||||
+"RCP-1700"|"Geolog Full Waveform Sonic "|"Geolog Full Waveform Sonic Calculation"|"AO"|"Add-on to Geolog"|"Float_SWP"||||||
+"RCP-0187"|"Geolog FuzzyLogic"|"Permeability and Facies Prediction"|"AO"|"Add-on to Geolog"|"Float_FuzzyLogic"||||||
+"RCP-1392"|"Geolog Geomage"|"Borehole Image Log Processing including Dip Meter Calculations
+"|"AO"|"Add-on to Geolog"|"Float_Imager"||||||
+"RCP-1542"|"Geolog Geosteer"|"Logging while Drilling Analysis
+(Includes: Gamma Ray Forward Modeling)
+Note: See Real Time GeoSteer for the full GeoSteering bundle "|"AO"|"Add-on to Geolog"|"Float_Geosteer"||||||
+"RCP-1202"|"Geolog ImagePack "|"Graphics File Conversion Utilities"|"AO"|"Add-on to Geolog"|"Float_ImagePack"||||||
+|"Geolog LSSA"||"AO"|"Add-on to Geolog"|"Float_LSSA"||||||
+"RCP-1237"|"Geolog Multimin"|"Optimization-based Petrophysical Analysis"|"AO"|"Add-on to Geolog"|"Float_Multimin"||||||0
+"RCP-1241"|"Geolog NMR"|"NMR Processing, Inversion, and Interpretation"|"AO"|"Add-on to Geolog"|"Float_NMR"||||||
+"RCP-1734"|"Geolog Resistivity Log Modeling"|"Resistivity Log Modeling"|"AO"|"Add-on to Geolog"|"Float_Hardman"||||||
+"RCP-1676"|"Geolog Russian Logging Tool Support"|"Geolog  Russian Logging Tool Support"|"AO"|"Add-on to Geolog"|"Float_Russian"||||||
+"RCP-1300"|"Geolog Section"|"Geological Canvas for Cross-section Building"|"AO"|"Add-on to Geolog"|"Float_Section"||||||
+"RCP-1328"|"Geolog Synseis"|"Borehole Geophysics"|"AO"|"Add-on to Geolog"|"Float_Synseis"||||||
+"VI-1712"|"Geolog XV (eXtra Value) Upgrade"|"3D Visualization and Mapping of Well Data for Geolog Users
+(Includes: Log Attribute Mapping, 3D Visualization of Logs and Grids, Draping of Log Attributes on Structural Maps)"|"P"|"XV (eXtra Value) Geoscience Interpretation Line Product "|"Geolog_XV"||||||
+"RCP-0195"|"GeologBasic "|"Borehole Data Management and Analysis for the Generalist
+
+"|"SB"|"Sales Bundle"|"GeoLogBASIC"||||||
+"RCP-1888"|"GeologELP"|"Entry Level Petrophysics 
+(Includes: GeologBasic and Geolog Determin)"|"SB"|"Sales Bundle"|"GeoLogELP"||||||
+"RCP-0196"|"GeologFE "|"Petrophysical Analysis and Formation Evaluation for the Petrophysicist
+(Includes : GeologBasic, Determin, Loglan, Section, Artist, and ImagePack)
+"|"SB"|"Sales Bundle"|"GeoLogFE"|"Companion product to Probe and Vanguard
+GeoLogFE_CP"|||||
+"RCP-1057"|"GeologGeo"|"Geolog for Geologists
+(Includes: Geolog Basic, Correlator, and Section)
+"|"SB"|"Sales Bundle"|"GeologGEO"||||||
+"RCP-0198"|"GeologGold "|"Petrophysical Analysis and Formation Evaluation
+(Includes: GeologFE, Multimin, and Synseis)
+"|"SB"|"Sales Bundle"|"GeoLogGOLD"||||||
+"RCP-1060"|"GeologRTP "|"Geolog Real Time Petrophysics 
+(Includes: Geolog ELP and OPSLINK)
+"|"SB"|"Sales Bundle"|"GeoLogELP
+IDEAS_OPSLINK
+IDEAS_OPSLINK_REPOSITORY_L
+IDEAS_OPSLINK_SUBSCRIPTION_L"||||||
+"VI-1189"|"GeoSec 2D"|"2D Structural Restoration and Balancing "|"P"|"Product"|"GeoSec2D
+DataServer_GF
+DataServer_OW"|"Companion product version to SeisEarth
+GeoSec2D_CP"|||||
+"ED-1960"|"GOCAD 3D Reservoir Grid Builder"|"Construct 3D reservoir grids  (with normal and reverse faults). Upgridding, downgridding. Static property upscaling. Compute volumetrics."|"AO"|"Add-on to  Stratigraphic Modeling and Fault Analysis"|"strati_model_core
+strati_model_gui
+upscaling_basic
+gocad_viewer
+gocad_volume
+struct_model_core
+struct_model_gui
+views2d
+views2d_map_viewer
+views2d_well_viewer
+views2d_xsection_viewer"||||||
+"ED-11861"|"GOCAD Seismic 2D Line Development Kit"||||"N/A"||||||
+"ED-1032"|"GOCAD Structural Modeling"|"Construct fault network and horizons using triangulated surfaces."|"AO"|"Add-on to Map, X-Section and Well Viewer"|"struct_model_core
+struct_model_gui"||||||
+"ED-1166"|"GOCAD/SKUA – Epos link "|"GOCAD/SKUA to Epos connectivity for Well, Interpretation, and Seismic Data"|"AO"|"Add-on to all GOCAD Products"|"gocad_epos_access"||||||
+"ED-1073"|"HP Reservoir Risk Assessment (Jacta Cluster)"|"4-node clusters for running Jacta simulations.
+(In cooperation with Total.)"|"AO"|"Add-on to  Reservoir Risk Assessment (Jacta)"|"g2_core_jcrtl
+gocad_base_jcrtl
+gocad_core_jcrtl
+gocad_gen_data_analysis_jcrtl
+gocad_geostat_jcrtl
+gocad_gui_jcrtl
+gocad_surface_jcrtl
+gocad_viewer_jcrtl
+gocad_volume_jcrtl
+jacta_cluster_mgr
+jacta_cluster_node_4
+jacta_core_ext_jcrtl
+jacta_core_jcrtl
+jacta_gui_jcrtl
+pm_categorical_jcrtl
+pm_continuous_jcrtl
+strati_model_core_jcrtl
+strati_model_gui_jcrtl
+struct_layering_jcrtl
+struct_model_core_jcrtl"||||||
+"RCP-1869"|"IFP Inversion"|"Simultaneous Inversion"|"AO"|"Add-on to Vanguard "|"IFP_AO"||||||
+"RCP-1878"|"IFP Inversion (Multi-CPU)"|"Simultaneous Inversion 
+Multi-CPU suport on Linux Clusters only"|"AO"|"Add-on to Vanguard "|"IFP_prl_AO"||||||
+"VI-1548"|"iMap (CP)"|" Mapping "|"CP"|"SeisEarth, VoxelGeo , RN"|"iMap_CP"|"Companion Product to SeisEarth LI+, VoxelGeo VI, GeologBasic, Reservoir Navigator, Probe, Vanguard RC"|||||
+"WPD-1766"|"Interpret"|"Transient Well Testing, Design  and Analysis"|"P"|"Product"|"Interpret_GLG
+Interpret_MLS
+Interpret_MLT
+Interpret_MLV
+Interpret_MLW
+Interpret_STD
+Interpret_WFT"||||||
+"ED-1979"|"Interpretation Modeling (previously Volume Interpretation)"|"Volume visualization, probes, arbitrary slicer and dicer, co-rendering, on-the-fly image processing. Multi-probes. Perform seismic interpretation using horizon and fault auto-picking and associated tools.Includes: GOCAD/SKUA – Epos link (ED-1166)."|"AO"|"Add-on to Map, X-Section and Well Viewer. Also requires either GOCAD Structural Modeling or SKUA Structure"|"gocad_epos_access
+seismic_interpretation
+volume_explorer"||||||
+"DPI-11989"|"Kirchhoff, Wave Equation and 2D CRAM Migrations - Additional Cores"|"Additional CPU cores for all 3D Kirchhoff, 3D Wave Equation (Common Shot PSPCPI) and 2D CRAM Migrations"|"AO"|"Add-on a GeoDepth"|"3DMIG_CT"|"Requires PG 2011
+Per PCU (1 PCU = 4 CPU Cores)"|||||
+"ED-1995"|"LGR and Upscaler"|"Workflow driven upgridding/downgridding, upscaling/downscaling, and easy construction, management and export of local grid refinements (LGR). Advanced permeability upscaling including finite difference and finite element pressure solvers (diagonal and symmetric tensors)."|"AO"|"Add-on to either GOCAD 3D Reservoir Grid Builder or SKUA Flow Simulation Grids"|"rescaling_basic
+rescaling_core
+rescaling_downscaler
+rescaling_gui
+rescaling_lgr_core
+upscaling_dynamic"||||||
+"EP-1227"|"Loglan"|"Log Manipulation Batch Programming"|"AO*"|"Add-on to Geolog"|"Float_Loglan"||||||
+"ED-1996"|"LTD - Categorical Properties (For Mining Industry Only)"|"Perform categorical property modeling using pixel-based  geostatistical simulation"|"AO"|"Add-on to LTD - Deposit Resource Modeling"|"g2_core
+g2_gui
+gocad_geostat
+pm_categorical"||||||
+"ED-1013"|"LTD - Deposit Resource Modeling (For Mining Industry Only)"|"Perform petrophysical modeling using geostatistical continuous properties simulation & interpolation. "|"AO"|"Add-on to LTD - GOCAD Base Module"|"g2_core
+g2_gui
+gocad_geostat
+pm_continuous
+pm_post_processing"||||||
+"ED-2-17"|"LTD - Reservoir Properties Development Kit"||||"g2_core_dsl
+g2_gui_dsl
+pm_categorical_dsl
+pm_continuous_dsl
+pm_post_processing_dsl"||||||
+"VI-1195"|"Map Geostatistics"|"Map-Based Geostatistics and Uncertainty Analysis"|"AO*"|"Add-on to all Explorer, VoxelGeo VI, GeologBasic, Resrevoir Navigator, Probe, Geodepth, iMap  "|"GeoStatistics"||||||
+"ED-1007"|"Map, X-Section and Well Viewer"|"Create 2D maps, cross-sections, well log displays, and scaled hardcopies"|"AO"|"Add-on to Foundation Modeling"|"views2d
+views2d_map_viewer
+views2d_well_viewer
+views2d_xsection_viewer"||||||
+"EP-1372"|"MapLan"|"Map Manipulation Batch Programming"|"AO*"|"Add-on to Explorer EM, VoxelGeo VI, GeologBasic, Resrevoir Navigator, Probe, Geodepth, iMap, SeisEarth LI+, Vanguard RC, Loglan"|"Loglan_Maps"||||||
+"RCP-1663"|"Model-Driven Log Property Propagation "|"Geostatistical Log Property Volume Creation"|"AO*"|"Add-on to VoxelGeo VI & XV and  Reservoir Navigator, Probe, GeoDepth"|"GeoStatVol"||||||
+"RCP-11152"|"Multi-Azimuth Probe
+"|"Multi-Azimuth Amplitude versus Offset Analysis and Inversion."|"AO"|"Add-on to Probe"|"MultiAzimuthAVA_AO"||||||
+"DPI-1139"|"Multi-Azimuth Tomography"|"Multi-Azimuth Tomographic Updating"|"AO"|"Add-on to 3D Grid Tomo configurations (Unrestricted Users License Model DPI 1159, DPI-1160 and per user  model DPI-0114, DPI-1522 )  "|"Tomog3D_MultiAzim_AO"||||||
+"ED-1142"|"Multi-Core Support for Foundation Modeling"|"Multi-Core support for base modeling functionalities.
+For shared memory platforms only (not available for Linux clusters). Limited to 8 Cores."|"AO"|"Add-on to Foundation Modeling"|"gocad_base_mp
+gocad_gen_data_analysis_mp"||||||
+"ED-1064"|"Multi-Core Support for Seismic Attribute Analysis"|"Multi-Core support for Seismic Attribute calculations. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to Seismic Attribute Analysis. Also requires Multi-CoreFoundation Modeling."|"seismic_attributes_mp"||||||
+"ED-1149"|"Multi-Core Support for SKUA Flow Simulation Grids"|"Multi-Core support for constructing flow simulation grids. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to SKUA Flow Simulation Grids. Also requires Multi-Core Foundation Modeling."|"skua_base_mp
+skua_resgrid_mp"||||||
+"ED-1147"|"Multi-Core Support for SKUA Stratigraphy"|"Multi-Core support for constructing horizons using UVT transform and building Geologic Grids. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to SKUA Stratigraphy. Also requires Multi-Core Foundation Modeling."|"skua_strati_mp"||||||
+"ED-1144"|"Multi-Core Support for SKUA Structure "|"Multi-Core support for constructing faults and horizons. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to SKUA Structure. Also requires Multi-Core Foundation Modeling."|"skua_base_mp
+skua_struct_mp"||||||
+"ED-1065"|"Multi-Core Support for Velocity Modeling Time-to-Depth"|"Multi-Core support for Velocity Modeling and Time-to-Depth Conversion. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to Velocity Modeling Time-to-Depth. Also requires Multi-Core Foundation Modeling."|"gocad_geostat_mp
+gocad_timedepth_mp
+gocad_velmodel_mp"||||||
+"RCP-1715"|"Multi-CPU Support"|"Multi-CPU Support for Eigenvalue Inversion Method
+For shared memory platforms only (not available for Linux clusters)"|"AO"|"Add-on to Vanguard  Geophysicist  and Vanguard RC "|"Vanguard_prl_AO"||||||
+"VI-1477"|"Multi-Lines T2D"|"Multi-Line Time to Depth Conversion "|"AO"|"Add-on to Explorer EM, MV, and SGMV "|"MultiLines_T2D_AO"||||||
+"VI-1714"|"Multi-pipe"|"Support for Multi-Pipe (Visionarium) Displays"|"AO"|"Add-on to VoxelGeo VI  & XV "|"VoxelGeo_MPP_AO"||||||
+"RCP-1240"|"NexModel"|"Seismic Facies Well Log Calibration"|"AO*"|"Add-on to Stratimagic"|"NX_COMMON"||||||
+"EP-1876"|"OpenGeo Tools"|"Epos Embedded Application Programming. 
+Facilitates direct access to Epos well, interpretation and seismic data, and enables GUI programming"|"AO"|"General Add-on"|"N/A"||||||
+"TP-1252"|"OpenInventor on SUN (Float)"|"Required for all VG products on SUN"||"Third Party"|"VGTGS"||||||
+"EP-1735"|"OpsLink"|"Well Data Transfer from WITSML servers to EPOS repositories  (1 subscription + 1 database)"|"AO"|"General Add-on"|"IDEAS_OPSLINK
+IDEAS_OPSLINK_REPOSITORY_L
+IDEAS_OPSLINK_SUBSCRIPTION_L"||||||
+"EP-1056"|"OpsLink Database"|"Additional concurrent database link to which WITSML data is transferred  to."|"AO"|"Add-on to OpsLink"|"IDEAS_OPSLINK_REPOSITORY_L"||||||
+"EP-1055"|"OpsLink Subscription"|"Additional concurrent subscription to WITSML server"|"AO"|"Add-on to OpsLink"|"IDEAS_OPSLINK_SUBSCRIPTION_L"||||||
+"VI-11833"|"Pre-stack Data Interpretation"|"Volume Roaming and Visualization of Pre-stack Data in the 3D Canvas
+
+ 
+"|"AO"|"SeisEarth RN, SeisEarth XV, SeisEarth XVSG, SeisEarth Gold, VoxelGeo XV "|"RN_PSInterp_AO"||||||
+"VI-1877"|"Pre-stack Interpreter"|"Pre-stack Gather Display and Analysis for the Interpreter
+(Includes: AVO modeling and pre-stack gather analysis))"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations"|"PS_Interpreter"||||||
+"RCP-1286"|"Probe     "|"AVO Reservoir Characterization "|"P"|" Product"|"Probe2D3D
+DataServer_GF
+DataServer_OW"|"Companion Product to Echos, Probe
+Probe2D3D_CP"|||||
+"DPI-1682"|"Probe Velocity Navigator "|"Task Oriented Residual Moveout Analysis 
+(Includes time and time migrated operations performed on CRP (time migrated) or CMP (offset or angle) gathers.
+"|"AO*"|"Add-on to Probe"|"VelNav_Probe"||||||
+"ED-1017"|"Production Data Analysis"|"Load, manipulate, analyze, and display historical production data and flow simulation results. "|"AO"|"Add-on to Map, X-Section and Well Viewer"|"pda_basic
+pda_gui
+pda_scenario"||||||
+"ED-92-3"|"Production Risk Assessment Jacta-3DSL Connection"|"Link between Jacta and Streamsim 3DSL® for quantification of production uncertainty linked to geological uncertainty."|"AO"|"Add-on to  Reservoir Risk Assessment (Jacta)"|"jacta_core_3dsl"||||||
+"ED-1016 "|"Production Risk Assessment Jacta-FrontSim Connection"|"Link between Jacta and Schlumberger FrontSim® for quantification of production uncertainty linked to geological uncertainty."|"AO"|"Add-on to  Reservoir Risk Assessment (Jacta)"|"jacta_core_frontsim"||||||
+"WPD-1881"|"Real Time Geosteer"|"Geosteering Workflow 
+(Includes: GeologBasic, Geolog Geosteer, OpsLink, Sysdrill Director (Office) )
+"|"SB"|"Sales Bundle"|"Float_Geosteer
+GeoLogBASIC
+IDEAS_GENPLOT
+IDEAS_OPSLINK
+IDEAS_OPSLINK_REPOSITORY_L
+IDEAS_OPSLINK_SUBSCRIPTION_L
+IDEAS_PLANNING
+IDEAS_SURVEY
+IDEAS_SYSDRILL"||||||
+"ED-1018"|"Remote Collaboration"|"Link two or more GOCAD sessions together for remote shared modeling."|"AO"|"Add-on to all GOCAD Products"|"netgocad"||||||
+"ED-1019"|"Reservoir Data Analysis"|"Perform data analysis for reservoir property modeling. Includes: declustering, histogram smoothing and fitting, vertical proportion and vertical trend curve analysis and modeling"|"AO"|"Add-on to GOCAD 3D Reservoir Grid Builder or SKUA Stratigraphy"|"rdaw_1dtrend
+rdaw_blocking
+rdaw_univariate
+rdaw_gui"||||||
+"ED-11898"|"Reservoir Modeling Bundle (SKUA enabled)"|"This bundle provides a comprehensive and differentiating reservoir modeling solution based on UVT technology. It incorporates workflows that begin with structural framework creation and extends all the way through reservoir data analysis and property modeling, uncertainty assessment, and reservoir model validation through flow simulation connection and production data analysis. Individual modules can be added.
+
+Includes: 3D Viewer, Foundation Modeling, Multi-core support for Foundation Modeling, Maps Cross Section and Well Viewer, SKUA Structure, Multi-core support for SKUA Structure, SKUA Stratigraphy  and Fault Analysis, Multi-core support for SKUA Stratigraphy  and Fault Analysis, Reservoir Properties, Reservoir Data Analysis,
+Facies modeling, Reservoir Risk Assessment (Jacta),
+SKUA Flow Simulation Grid, Multi-core support for SKUA Flow Simulation Grid, LGR & Upscaler, Production Data Analysis, Reservoir Simulation Interface.
+
+"|"P"|"Product"|"skua_reservoir_modeling"||||||
+"VI-1366"|"Reservoir Navigator "|"Multi-Survey Interpretation 
+(Includes: Multi-survey Interpretation within a 3D canvas)"|"P"|"Product"|"Reservoir_Navigator
+DataServer_GF
+DataServer_OW"||||||
+"ED-1970"|"Reservoir Properties"|"Perform facies modeling using pixel-based  geostatistical simulation and petrophysical modeling using geostatistical continuous properties simulation & interpolation. Perform post-processing:  average and probability estimates, 2D hydrocarbon volumes, geobodies."|"AO"|"Add-on to Map, X-Section and Well Viewer "|"g2_core
+g2_gui
+gocad_geostat
+pm_categorical
+pm_continuous
+pm_post_processing"||||||
+"ED-1020"|"Reservoir Risk Assessment (Jacta)  "|"Quantify hydrocarbon volumes uncertainty from structural and geological uncertainty as well as data and parameter uncertainty. Rank reservoir models for use by flow simulators.(In cooperation with Total)"|"AO"|"Add-on to  
+Reservoir Properties"|"gocad_geostat
+jacta_core
+jacta_gui"||||||
+"ED-1021"|"Reservoir Simulation Interface"|"Create flow simulation parameter files for Schlumberger Eclipse® and Streamsim 3DSL®, and submit simulation runs."|"AO"|"Add-on to Production Data Analysis"|"rsi_3dsl
+rsi_basic
+rsi_eclipse
+rsi_frontsim
+rsi_gui"||||||
+"RCP-1596"|"Rock Physics"|"Rock Physics Modeling and Fluid Substitutions"|"AO"|"Add-on to Vanguard Geophysicist "|"RockPhysics_AO"||||||
+"ED-1022"|"Rock Volume Uncertainty (Alea) "|"Gross rock volume uncertainty quantification from interpretation and velocity uncertainties, structural scenarios and fluid contact uncertainties. (In cooperation with Total)"|"AO"|"Add-on to Velocity Modeling Time-to-Depth. Also requires Stratigraphic Modeling and Fault Analysis"|"alea_core
+alea_gui"||||||
+"VI-1051"|"SeisEarth Gold"|"Comprehensive Multi-Survey (2D/3D) Interpretation
+(Includes: SeisEarth XVSG, iMap, Comprehensive Seismic Attributes, and Designer) 
+Note: This bundle can only be quoted for sales with a minimum of five seats."|"SB"|"Sales Bundle"|"SeisEarth_Gold
+FaultTrak_AO
+DataServer_OW
+DataServer_GF"|"No Companion product option"|||||
+"VI-1561"|"SeisEarth LI+"|"Multi-Survey (2D/3D) Section Interpretation 
+(Includes: Section, Basemap, and multi-survey support)
+"|"P"|"Product  "|"SeisEarth
+DataServer_OW
+DataServer_GF"|"Companion product version to VoxelGeo, Explorer, Reservoir Navigator, Probe, Vanguard, GeoDepth
+SeisEarth_CP"|||||
+"VI-1674"|"SeisEarth XV"|"Multi-Survey (2D/3D) Basin to Prospect  Scale Interpretation
+(Includes: Section, Basemap, 3D Canvas, 3D Propagator, FaultTrak, and multi-survey support)"|"SB"|"Sales Bundle"|"SeisEarth_XV
+DataServer_OW
+DataServer_GF"|"Companion product version to VoxelGeo, 
+SeisEarth_XV_CP"|||||
+"VI-11962"|"SeisEarth XV  - Single User"|"Multi-Survey (2D/3D) Basin to Prospect  Scale Interpretation
+(Includes: Section, Basemap, 3D Canvas, 3D Propagator, FaultTrak, and multi-survey support)"|"SB"|"Sales Bundle"|"SeisEarth_XV_SU"||||||
+"VI-1868"|"SeisEarth XVSG"|"Multi-Survey (2D/3D) Basin to Prospect Scale Interpretation and Modeling 
+(Includes: SeisEarth XV and SolidGeo)
+
+"|"SB"|"Sales Bundle"|"SeisEarth_XVSG
+DataServer_OW
+DataServer_GF"|"No Companion product option"|||||
+"RCP-1301"|"SeisFacies"|"Multi-Attribute Volume Classification"|"AO"|"Add-on to Stratimagic"|"SM_SEISFACIES"||||||
+"ED-1974"|"Seismic Attribute Analysis"|"Seismic attributes computation (dip-based noise attenuation, phase, semblance, etc.) Seismic Facies classification using PCA and Cluster Analysis (K-means)."|"AO"|"Add-on to Interpretation Modeling"|"seismic_attributes
+seismic_classification"||||||
+"VI-1526"|"Seismic Propagator (previously 3D Propagator)"|"3D/2D  Wave-shape Auto Tracking of Pre and Post Stack Seismic Data."|"AO"|"VoxelGeo VI , Reservoir  Navigator, Reservoir Navigator XV, SeisEarth LI and LI+, GeoDepth"|"Propagator_AO"||||||
+"RCP-1411"|"Seismic-Driven Log Property Propagation 
+"|"Neural Network Log Property Volume Creation "|"AO*"|"VoxelGeo VI & XV and  Reservoir Navigator , Stratimagic, Probe, Vanguard Geophysicist"|"Comet"||||||
+"ED-1981"|"Side Track & Collision Risk"|"Construct and optimize side-tracks. Compute well path uncertainty and anti-collision"|"AO"|"Add-on to Basic Well Planning"|"idp_anticollision
+idp_sidetrack
+idp_uncertainty"||||||
+"ED-1148"|"SKUA Flow Simulation Grids"|"Construct flow simulation grids from Geologic grids."|"AO"|"Add-on to  Map, X-Section and Well Viewer"|"skua_base
+skua_misc
+skua_resgrid"||||||
+"ED-1118"|"SKUA Run Time License"|"SKUA Structure, SKUA Stratigraphy, and SKUA Flow Simulation Grids without license for GUI."|"P"|"Run time"|"gocad_base_rtl
+gocad_core_rtl
+gocad_gen_data_analysis_rtl
+gocad_geostat_rtl
+gocad_surface_rtl
+gocad_timedepth_rtl
+gocad_velmodel_rtl
+gocad_volume_rtl
+skua_base_mp_rtl
+skua_misc_rtl
+skua_resgrid_mp_rtl
+skua_strati_mp_rtl
+skua_strati_rtl
+skua_struct_mp_rtl
+skua_struct_rtl
+skua_tessel_rtl
+strati_resgrid_rtl"||||||
+"ED-1146"|"SKUA Stratigraphy"|"Construct horizons using UVT transform. Build Geologic Grids."|"AO"|"Add-on to SKUA Structure"|"skua_misc
+skua_strati"||||||
+"ED-11879"|"SKUA Stratigraphy Run Time License"|"SKUA Stratigraphy and Fault Analysis without license for GUI"|"AO"|"Run time.  Requires SKUA Structure RTL"|"skua_misc_rtl
+skua_strati_rtl"||||||
+"ED-11880"|"SKUA Stratigraphy Run Time License (including Multi-Core)"|"SKUA Stratigraphy and Fault Analysis, Multi-Core Support for SKUA Stratigraphy and Fault Analysis without license for GUI"|"AO"|"Runtime. Requires SKUA Structure RTL (including Multi-Core)"|"skua_misc_rtl
+skua_strati_rtl
+skua_strati_mp_rtl"||||||
+"ED-1143"|"SKUA Structure"|"Construct faults, fault networks, and horizons. No UVT transform. No Geologic Grid creation. "|"AO"|"Add-on to Map, X-Section and Well Viewer"|"skua_base
+skua_struct
+skua_tessel"||||||
+"ED-1150"|"SKUA Structure Run Time License"|"SKUA Structure without license for GUI."|"P"|"Run time"|"gocad_base_rtl
+gocad_core_rtl
+gocad_gen_data_analysis_rtl
+gocad_geostat_rtl
+gocad_surface_rtl
+gocad_timedepth_rtl
+gocad_velmodel_rtl
+gocad_volume_rtl
+skua_base_rtl
+skua_struct_rtl
+skua_tessel_rtl"||||||
+"ED-11878"|"SKUA Structure Run Time License (including Multi-Core)"|"SKUA Structure, Multi-Core Support for SKUA Structure without license for GUI."|"P"|"Run time"|"gocad_base_rtl
+gocad_core_rtl
+gocad_gen_data_analysis_rtl
+gocad_geostat_rtl
+gocad_surface_rtl
+gocad_timedepth_rtl
+gocad_velmodel_rtl
+gocad_volume_rtl
+skua_base_rtl
+skua_struct_rtl
+skua_tessel_rtl
+gocad_core_mp_rtl
+gocad_gen_data_analysis_mp_rtl
+skua_base_mp_rtl
+skua_struct_mp_rtl"||||||
+"ED-11895"|"SKUA Upgrade Bundle"|"This bundle is targeted at current GOCAD customers. It provides price relief and a pathway to move to the SKUA enabled structural framework, stratigraphic grid, and reservoir simulation grid. This bundle can also be used for new customers that want most of SKUA base functionalities at a ""cheaper"" price. Individual modules can be added.
+ 
+Includes: SKUA Structure, Multi-core support for SKUA Structure, SKUA Stratigraphy and Fault Analysis, Multi-core support for SKUA Stratigraphy and Fault Analysis, SKUA Flow Simulation Grids,
+Multi-core Support for SKU Flow Simulation Grids
+"|"AO"|"Add-on to Map, X-Section and Well Viewer
+In order to  utilize multi CPU cores for SKUA Structure, SKUA Stratigraphy and Flow Simulation Grid,
+Multi-Core Support for Foundation Modeling ED-1142  is required 
+"|"skua_architecture"||||||
+"VI-1317"|"SolidGeo "|"Structural Framework Model Building and Mapping  (Includes iMap)"|"P"|"Product
+"|"SolidGeo"|"Companion Product version to SeisEarth LI+, VoxelGeo VI, GeologBasic, Reservoir Navigator, iMap, Vanguard RC
+SolidGeo_CP"|||||
+"VI-11967"|"SpecDecompAttr - Single User"|"Spectral Decomposition Attribute"|"AO*"|"Add-on to SeisEarth XV - Single User"|"Attributes_SD_SU"||||||
+"VI-1749"|"Spectral Decomposition Attribute"|"Spectral Decomposition Attribute"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Echos, GeoDepth"|"Attributes_SD"||||||
+"VI-11956"|"StratEarth"|"Geologic Interpretation for the Petroleum Geologist"|"P"|"Product"|"stratearth
+StratEarth_EPOS
+DataServer_GF
+DataServer_OW"||||||
+"VI-11963"|"StratEarth - Single User"|"Geologic Interpretation for the Petroleum Geologist
+"|"P"|"Product"|"StratEarth_EPOS_SU
+stratearth_SU"||||||
+"ED-1136"|"StratEarth (SeisEarth Add-on)"|"Well Log Cross Correlation and Section Application"|"AO"|"Add-on to all SeisEarth Configurations"|"stratearth"||||||
+"ED-1031"|"Stratigraphic Modeling and Fault Analysis"|"Construct fault displacement, fault separation diagrams, fault contact editing, horizon contact editing, isochores and horizon construction."|"AO"|"Add-on to GOCAD Structural Modeling"|"struct_basic_analysis
+struct_edit
+struct_layering"||||||
+"RCP-1322"|"Stratimagic "|"Seismic Facies Classification and Analysis
+(Includes interpretation toolbox and 3D Propagator for Stratimagic)"|"P"|"Product"|"STRATIMAGIC
+SM_TRACKER
+DX_COMMON
+STRATIMAGIC_EPOS"||||||
+"RCP-11834"|"Stratimagic 2D"|"2D Seismic Classification"|"AO"|"Add-on to Stratimagic"|"STRATIMAGIC2D"||||||
+"RCP-1736"|"Stratimagic GeoFrame/IESX & Charisma Link "|"GeoFrame/IESX and Charisma Horizon, Seismic and Well Data Links"|"AO*"|"Add-on to Stratimagic"|"DataServer_GF"||||||
+"RCP-1254"|"Stratimagic OpenWorks Link"|"OpenWorks Horizon, Seismic and Well Data Links"|"AO"|"Add-on to Stratimagic"|"DataServer_OW"||||||
+"RCP-1568"|"Stratimagic VI"|"Seismic Facies Classification 
+(Stratimagic configuration without the 3D Propagator)"|"CP"|"Companion product to SeisEarth, VoxelGeo "|"STRATIMAGIC_CP
+DX_COMMON
+STRATIMAGIC_EPOS"||||||
+"RCP-1323"|"StratQC (iMap)"|"Geoscience Mapping "|"AO*"|"Add-on to Stratimagic"|"Fastqc"||||||
+"DPI-1326"|"Surveyor "|"Survey Planning and Design - For the Specialist"|"P"|"Product"|"Surveyor"||||||
+"WPD-1062"|"Sysdrill Anti-Collision"|"Proximity Anti-Collision Analysis
+"|"AO"|"Add-on to  Sysdrill Director (Office) or Sysdrill  Director (Rigsite) "|"IDEAS_PROXIMITY"||||||
+"WPD-1093"|"Sysdrill BGS Magnetic Declination"|"British Geological Society Data Files
+Can only be sold to customers listed on this link: http://www.geomag.bgs.ac.uk/bggm.html
+Contact Robert Innes for additional information
+"|"AO"|"Add-on to Sysdrill Director (Office) or  Sysdrill Director (Rigsite)"|"IDEAS_BGGM"||||||
+"WPD-1465"|"Sysdrill Casing Design"|"Casing String Design
+"|"P"|"Product"|"IDEAS_CASING_DESIGN
+IDEAS_CASING_SEAT
+IDEAS_SYSDRILL"||||||
+"WPD-1092"|"Sysdrill Casing Wear Analysis"|"Casing Wear Analysis"|"AO"|"Add-on to Sysdrill Casing Design"|"IDEAS_CASING_WEAR"||||||
+"WPD-1466"|"Sysdrill Cementing "|"Cementing Optimization and Analysis
+"|"P"|"Product"|"IDEAS_CEMENTING
+IDEAS_SYSDRILL"||||||
+"WPD-1470"|"Sysdrill CRSA"|"Critical Rotary Speed Analysis"|"AO"|"Add-on to Sysdrill Torque & Drag"|"IDEAS_VIBRATIONS"||||||
+"WPD-1527"|"Sysdrill Designer"|"Embedded Well Planning"|"AO"|"VoxelGeo XV, Reservoir Navigator,  and SeisEarth XV"|"SysdrillDesigner_AO"||||||
+"WPD-1413"|"Sysdrill Director (Office)"|"Directional Well Planning & Survey Management for the Office"|"P"|"Product"|"IDEAS_GENPLOT
+IDEAS_PLANNING
+IDEAS_SURVEY
+IDEAS_SYSDRILL"||||||
+"WPD-1061"|"Sysdrill Director (Rigsite)"|"Survey Management for the Rigsite 
+"|"P"|"Product"|"IDEAS_GENPLOT
+IDEAS_SURVEY
+IDEAS_SYSDRILL"||||||
+"WPD-1430"|"Sysdrill DirectorGeo"|"3D Directional Well Planning and Survey Management. 
+(Includes: Sysdrill Director (Office), Sysdrill Anti-Collision,  Sysdrill DirectorGeo Upgrade & Sysdrill SaG)"|"P"|"Product"|"IDEAS_GENPLOT
+IDEAS_PLANNING
+IDEAS_PROXIMITY
+IDEAS_SURVEY
+IDEAS_SYSDRILL
+IDEAS_VOXEL_GEO"||||||
+"WPD-1875"|"Sysdrill DS-1 Compliance"|"TH-Hill DS-1 Fatigue Analysis"|"AO"|"Add-on to Sysdrill Torque & Drag"|"IDEAS_DS1"||||||
+"WPD-1091"|"Sysdrill Fluid Temperature Modeling"|"Fluid Temperature Modeling"|"AO"|"Add-on to Sysdrill Hydraulics"|"IDEAS_THERMAL_MODELLING"||||||
+"WPD-1464"|"Sysdrill Hydraulics"|"Hydraulics Optimization and Analysis"|"P"|"Product"|"IDEAS_HYDRAULICS
+IDEAS_SYSDRILL"||||||
+"WPD-1415"|"Sysdrill Survey Tool Correction "|"Survey Tool Correction
+"|"P"|"Product"|"IDEAS_SAG"||||||
+"WPD-1416"|"Sysdrill Torque & Drag "|"Torque and Drag Optimization and Analysis
+"|"P"|"Product"|"IDEAS_TORQUE_AND_DRAG
+IDEAS_SYSDRILL"||||||
+"WPD-1094"|"Sysdrill User Manager"|"User Manager"|"AO"|"Add-on to Sysdrill Director (Office) or  Sysdrill Director (Rigsite)"|"IDEAS_USERMAN"||||||
+"WPD-1469"|"Sysdrill Well Control"|"Kick Tolerance & Kill Sheet"|"P"|"Product"|"IDEAS_WELL_CONTROL
+IDEAS_SYSDRILL"||||||
+"DPI-11984"|"Tomo - Additional Cores"|"Additional CPU Cores for 3D Tomo, 3D Grid Tomo, 3D Layer Tomo and Tomo Facilitator"|"AO"|"Add-on to 3D Grid Tomo"|"3DTOMO_CT"||||||
+"DPI-1135"|"Tomo Facilitator
+Unrestricted Users License Model"|"Automatic Event picking of pre and post stack data and attribute (Dip/Azimuth/Continuity) generation for seed point determination."|"AO*"|"Add-on to 3D Grid Tomo "|"TOMOFACIL"||||||
+"DPI-1944"|"TTI Anisotropy
+Unrestricted Users License Model "|"TTI  Anisotropy Support for 3D Kirchhoff Wavefront PSDM  (Add-on to Wavefront TTS for 3D PSDM)"|"AO"|"Add-on to 3D K. PSDM  (Wavefront)"|"3DK_TTI_AO"||||||
+"RCP-1482"|"Vanguard Geophysicist"|"Seismic Reservoir Characterization for the Geophysicist
+(Includes: Elastic Inversion, Geostatistics and ComplexAttr and DirectionAttr Packages)"|"C"|"Configuration"|"Vanguard
+DataServer_OW
+DataServer_GF"|"Companion product to Probe
+Vanguard_CP"|||||
+"RCP-1481"|"Vanguard Interpreter"|"Seismic Reservoir Characterization for the Interpreter 
+(Includes: Seismic-Driven Log Property Propagation, Geostatistics, Rock Physics, and ComplexAttr and DirectionAttr Packages)"|"C"|" Configuration"|"Vanguard_Interp
+DataServer_OW
+DataServer_GF"|"Companion Product to Stratimagic, Vanguard
+Vanguard_Interp_CP"|||||
+"RCP-1442"|"Vanguard RC 
+(Reservoir Characterization)"|"Seismic Reservoir Characterization
+(Vanguard Interpreter and Vanguard Geophysicist)
+Comment:  For the Specialist"|"SB"|"Sales Bundle"|"Vanguard_RC
+DataServer_OW
+DataServer_GF"|"Companion product to Probe
+Vanguard_RC_CP"|||||
+"ED-1976"|"Velocity Modeling Time-to-Depth"|"Basic velocity modeling:  Construct 3D velocity grids. Define 3D layer-based velocity models. Velocity conversions. Time to depth conversion of surfaces, reservoir grids, velocity grids, and seismic volumes."|"AO"|"Add-on to Foundation Modeling"|"gocad_geostat
+gocad_timedepth
+gocad_velmodel"||||||
+"EP-1440"|"VolLan"|"Volume Manipulation Batch Programming"|"AO*"|"General Add-on"|"VolLAN"||||||
+"VI-11955"|"Volume Math Calculator"|"Seismic Data and Seismic Data Attribute Math Operations
+Included with all seismic attribute configurations."|"AO*"|"All VoxelGeo and SeisEarth Configurations"|"Attributes_VMC"||||||
+"ED-1041"|"Volume Shared Memory Server Development Kit"|"Allows sharing of GOCAD Voxet and Volume Interpretation probes across different programs"|"AO"|"DevKit -  Requires Interpretation Modeling"|"volume_explorer_smc
+volume_explorer_sms"||||||
+"ED-1071"|"Volume Shared Memory Server Run Time Licenses (per 100 user)"|"Run time component of the Volume Shared Memory Server Development Kit"|"P"|"Run time"|"volume_explorer_smc
+volume_explorer_sms"||||||
+"ED-1070"|"Volume Shared Memory Server Run Time Licenses (per user)"|"Run time component of the Volume Shared Memory Server Development Kit"|"P"|"Run time"|"volume_explorer_smc
+volume_explorer_sms"||||||
+"ED-1072"|"Volume Shared Memory Server Run Time Licenses (unlimited users)"|"Run time component of the Volume Shared Memory Server Development Kit"|"P"|"Run time"|"volume_explorer_smc
+volume_explorer_sms"||||||
+"VI-1476"|"Volumes T2D"|"Time to Depth Conversion - Seismic Volumes"|"AO"|"Add-on to Explorer EM "|"Volumes_T2D_AO"||||||
+"VI-1342"|"VoxelGeo VI "|"Voxel-Volume Interpretation
+"|"P"|"Product"|"VoxelGeo_VI
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV, Stratimagic, Probe, Vanguard, Echos, GeoDepth
+VoxelGeo_VI_CP
+VOXELGEO"|||||
+"VI-1666"|"VoxelGeo VI+"|"Voxel-Volume Interpretation with Automatic Horizon Propagation 
+(Includes: VoxelGeo VI and 3D Propagator) 
+"|"SB"|"Sales Bundle"|"VoxelGeo_VIPlus
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV
+VoxelGeo_VIPlus_CP
+VOXELGEO"|||||
+"VI-1866"|"VoxelGeo VLI+"|"Voxel-Volume and  Multi-survey (2D/3D) Section Interpretation with Automatic Horizon Propagation
+(Includes: VoxelGeo VI, SeisEarth LI+ and 3D Propagator) 
+"|"SB"|"Sales Bundle"|"VoxelGeo_VLIPlus
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV
+VoxelGeo_VLIPlus_CP
+VOXELGEO"|||||
+"VI-1365"|"VoxelGeo XV"|"Voxel-Volume and Multi-Survey (2D/3D) Volume Interpretation with Automatic Horizon Propagation and Fault Tracking
+(Includes: VoxelGeo VI, Reservoir Navigator,3D Propagator and Fault Track)
+"|"SB"|" Sales Bundle"|"VoxelGeo_XV
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV
+VoxelGeo_XV_CP
+VOXELGEO"|||||
+"VI-1530"|"VXplot"|"Multi-Disciplinary Crossplotting"|"AO"|"VoxelGeo VI & XV "|"VXPlot_AO"||||||
+"EP-1680"|"WAM"|"Web-Based, GIS driven, Well and Seismic Data Browser
+"|"AO*"|"General Add-on"|"WAM
+WAM_SERVER"||||||
+"DPI-1948"|"Wave Equation VTI Anisotropy - Unrestricted Users License Model"|"VTI Anisotropy Support for 2D/3D Time/Depth Wave Equation Migration (Common Shot)"|"AO"|"Add-on to 3D Wave Equation PSDM (Common Shot) "|"CSAnis_AO"||||||
+"ED-1040"|"Well Correllation and Stratigraphic Analysis"|"Perform log analysis, log manipulation, facies interpretation, and well correlation."|"AO"|"Add-on to Map, X-Section and Well Viewer"|"views2d_well_correlation
+"||||||
+"ED-1042"|"Workflow Development Kit"|"Allows the design of workflows inside a GOCAD plug-in. Compared to a GOCAD wizard, a GOCAD workflow keeps a session state and enables any task flow chart"|"AO"|"DevKit - Add-on to Basic Gocad Developer Package"|"N/A"||||||
+|"Product"|"Description"||"Type"|"License Features"|"Old"
+"ED-1089"|" Basic GOCAD Developer Package Add-on (Shared)"|"Foundation Modeling, Velocity Modeling Time-to-Depth development kit (includes files, documentation, examples) for developing GOCAD plug-ins or independent batch program."|"AO"|"DevKit - Requires Velocity Modeling or a Basic GOCAD Run Time License "|"gocad_base_dsl
+gocad_core_dsl
+gocad_devtools_dsl
+gocad_gen_data_analysis_dsl
+gocad_geostat_dsl
+gocad_gui_dsl
+gocad_surface_dsl
+gocad_timedepth_dsl
+gocad_velmodel_dsl
+gocad_viewer_dsl
+gocad_volume_dsl"|
+"ED-1005"|"2D Restoration (Kine3D-2)"|"Cross section restoration, balanced cross section, map  unfolding, and  multi-map restoration. Flexural slip (isopach, variable thickness, pin line, any target);  simple shear; flow; rigid rotation of blocks; compaction/decompaction.
+(In cooperation with IFP)."|"AO"|"Add-on to Advanced Structural Analysis (Kine3D-1)"|"kine3d_2_gui
+kine3d_2_surfacic
+Kine3d_2_xsection"|
+"ED-1984"|"3D Magellan Mouse"|"Replace many 2D mouse movements by an intuitive, ergonomic 3D mouse control."|"AO"|"Add-on to all GOCAD Products"|"go4space"|
+"ED-1006"|"3D Restoration (Kine3D-3)"|"Volumetric restoration (geometrical and Finte Element geomechanics), elastic relaxation, slip of faults and horizons, stress ellipsoid prediction,  strain stress/strain direction/values, strain minimization. (In cooperation with IFP)."|"AO"|"Add-on to Advanced Structural Analysis (Kine3D-1)"|"kine3d_3_gui
+tessel3d_core
+tessel3d_gui"|
+"ED-1988"|"3D Viewer"|"Import and visualize 3D datasets and models."|"P"|"Product"|"gocad_base
+gocad_viewer"|
+"ED-1004"|"Advanced Structural Analysis (Kine3D-1)"|"Quantitative exploration of structures: layer thicknesses, shortening and/or extension, strain tensor,  Schmidt and Wullf diagrams,  etc. Isopach surface construction.  Enhanced dip constraint for horizon construction, DEM manipulation. (In cooperation with IFP)."|"AO"|"Add-on to GOCAD Structural Modeling"|"kine3d_1
+kine3d_1_gui"|
+"ED-1003"|"Basic GOCAD Developer Package (Per Developer)"|"Foundation Modeling, Velocity Modeling Time-to-Depth development kit (includes files, documentation and examples) for developing GOCAD plug-ins;  includes 3D Viewer, Foundation Modeling, Velocity Modeling Time-to-Depth for testing."|"P"|"DevKit"|"gocad_base_dsl
+gocad_core_dsl
+gocad_devtools_dsl
+gocad_gen_data_analysis_dsl
+gocad_geostat_dsl
+gocad_gui_dsl
+gocad_surface_dsl
+gocad_timedepth_dsl
+gocad_velmodel_dsl
+gocad_viewer_dsl
+gocad_volume_dsl"|
+"ED-1076"|"Basic GOCAD Developer Package Stand-alone (Shared)"|"Foundation Modeling, Velocity Modeling Time-to-Depth development kit (includes files, documentation, examples) for developing GOCAD plug-ins or independent batch program; includes 3D Viewer, Foundation Modeling, Velocity Modeling Time-to-Depth for testing."|"P"|"DevKit"|"gocad_base_dsl
+gocad_core_dsl
+gocad_devtools_dsl
+gocad_gen_data_analysis_dsl
+gocad_geostat_dsl
+gocad_gui_dsl
+gocad_surface_dsl
+gocad_timedepth_dsl
+gocad_velmodel_dsl
+gocad_viewer_dsl
+gocad_volume_dsl"|
+"ED-1968"|"Basic GOCAD Run Time License"|"Foundation Modeling, Velocity Modeling and Time-to-Depth Conversion functions; no user interface"|"P"|"Run time"|"gocad_base_rtl
+gocad_core_rtl
+gocad_gen_data_analysis_rtl
+gocad_geostat_rtl
+gocad_surface_rtl
+gocad_timedepth_rtl
+gocad_velmodel_rtl
+gocad_volume_rtl"|
+"ED-1105"|"Basic SKUA Developer Package (Shared)"|"API access to construction of fault network, horizons, geological grid, and flow simulation grids. API Access to geologic grid and flow simulation grid data structures."|"AO"|"DevKit - Requires GOCAD Basic Developer Package. Requires (SKUA Stratigraphy and Flow Simulation Grid) or SKUA Run Time License"||
+"ED-1009"|"Basic Well Planning"|"Create and edit targets. Construct optimum well paths from picked targets. Optimize platform position. Estimate cost."|"AO"|"Add-on to Map, X-Section and Well Viewer"|"idp
+idp_path"|
+"ED-2-18"|"ED-OpenSpirit Access link "|"Exchange objects (seismic, horizons, faults, wells, well curves and well picks) with Geoframe or OpenWorks"|"AO"|"Add-on to OpenSpirit Access"|"osplink_core"|
+"ED-1038"|"Finite Element Mesh Constructor"|"Construct tetrahedral meshes in structurally complex environments."|"AO"|"Add-on to all GOCAD Products"|"tessel3d_core
+tessel3d_gui"|
+"ED-1997"|"Foundation Modeling"|"Includes base modeling functionality such as creation and editing of curves, surfaces, voxets and sgrids; includes property calculator, histogram, cross-plots, and multiple cameras. "|"AO"|"Add-on to 3D Viewer"|"gocad_gen_data_analysis
+gocad_gui
+gocad_surface
+gocad_viewer
+gocad_volume"|
+"ED-1999"|"Fracture Modeling (FracMV)"|"Create discrete fracture network (DFN), upscale to create facture permeability, fracture porosity, sigma properties.
+(In cooperation with Midland Valley)"|"AO"|"Add-on to  GOCAD 3D Reservoir Grid Builder or SKUA Flow Simulation Grid"|"fracmv_core
+fracmv_gui"|
+"ED-1960"|"GOCAD 3D Reservoir Grid Builder"|"Construct 3D reservoir grids  (with normal and reverse faults). Upgridding, downgridding. Static property upscaling. Compute volumetrics."|"AO"|"Add-on to  Stratigraphic Modeling and Fault Analysis"|"strati_model_core
+strati_model_gui
+upscaling_basic"|
+"ED-1032"|"GOCAD Structural Modeling"|"Construct fault network and horizons using triangulated surfaces."|"AO"|"Add-on to Map, X-Section and Well Viewer"|"struct_model_core
+struct_model_gui"|
+"ED-1166"|"GOCAD/SKUA – Epos link "|"GOCAD/SKUA to Epos connectivity for Well, Interpretation, and Seismic Data"|"AO"|"Add-on to all GOCAD Products"|"gocad_epos_access"|
+"ED-1073"|"HP Reservoir Risk Assessment (Jacta Cluster)"|"4-node clusters for running Jacta simulations.
+(In cooperation with Total.)"|"AO"|"Add-on to  Reservoir Risk Assessment (Jacta)"|"g2_core_jcrtl
+gocad_base_jcrtl
+gocad_core_jcrtl
+gocad_gen_data_analysis_jcrtl
+gocad_geostat_jcrtl
+gocad_gui_jcrtl
+gocad_surface_jcrtl
+gocad_viewer_jcrtl
+gocad_volume_jcrtl
+jacta_cluster_mgr
+jacta_cluster_node_4
+jacta_core_ext_jcrtl
+jacta_core_jcrtl
+jacta_gui_jcrtl
+pm_categorical_jcrtl
+pm_continuous_jcrtl
+strati_model_core_jcrtl
+strati_model_gui_jcrtl
+struct_layering_jcrtl
+struct_model_core_jcrtl"|
+"ED-1979"|"Interpretation Modeling (previously Volume Interpretation)"|"Volume visualization, probes, arbitrary slicer and dicer, co-rendering, on-the-fly image processing. Multi-probes. Perform seismic interpretation using horizon and fault auto-picking and associated tools.Includes: GOCAD/SKUA – Epos link (ED-1166)."|"AO"|"Add-on to Map, X-Section and Well Viewer. Also requires either GOCAD Structural Modeling or SKUA Structure"|"gocad_epos_access
+seismic_interpretation
+volume_explorer"|
+"ED-1995"|"LGR and Upscaler"|"Workflow driven upgridding/downgridding, upscaling/downscaling, and easy construction, management and export of local grid refinements (LGR). Advanced permeability upscaling including finite difference and finite element pressure solvers (diagonal and symmetric tensors)."|"AO"|"Add-on to either GOCAD 3D Reservoir Grid Builder or SKUA Flow Simulation Grids"|"rescaling_basic
+rescaling_core
+rescaling_downscaler
+rescaling_gui
+rescaling_lgr_core
+upscaling_dynamic"|
+"ED-1996"|"LTD - Categorical Properties (For Mining Industry Only)"|"Perform categorical property modeling using pixel-based  geostatistical simulation"|"AO"|"Add-on to LTD - Deposit Resource Modeling"|"g2_core
+g2_gui
+gocad_geostat
+pm_categorical"|
+"ED-1013"|"LTD - Deposit Resource Modeling (For Mining Industry Only)"|"Perform petrophysical modeling using geostatistical continuous properties simulation & interpolation. "|"AO"|"Add-on to LTD - GOCAD Base Module"|"g2_core
+g2_gui
+gocad_geostat
+pm_continuous
+pm_post_processing"|
+"ED-1007"|"Map, X-Section and Well Viewer"|"Create 2D maps, cross-sections, well log displays, and scaled hardcopies"|"AO"|"Add-on to Foundation Modeling"|"views2d
+views2d_map_viewer
+views2d_well_viewer
+views2d_xsection_viewer"|
+"ED-1142"|"Multi-Core Support for Foundation Modeling"|"Multi-Core support for base modeling functionalities.
+For shared memory platforms only (not available for Linux clusters). Limited to 8 Cores."|"AO"|"Add-on to Foundation Modeling"|"gocad_base_mp
+gocad_gen_data_analysis_mp"|
+"ED-1064"|"Multi-Core Support for Seismic Attribute Analysis"|"Multi-Core support for Seismic Attribute calculations. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to Seismic Attribute Analysis. Also requires Multi-CoreFoundation Modeling."|"seismic_attributes_mp"|
+"ED-1149"|"Multi-Core Support for SKUA Flow Simulation Grids"|"Multi-Core support for constructing flow simulation grids. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to SKUA Flow Simulation Grids. Also requires Multi-Core Foundation Modeling."|"skua_base_mp
+skua_resgrid_mp"|
+"ED-1147"|"Multi-Core Support for SKUA Stratigraphy"|"Multi-Core support for constructing horizons using UVT transform and building Geologic Grids. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to SKUA Stratigraphy. Also requires Multi-Core Foundation Modeling."|"skua_strati_mp"|
+"ED-1144"|"Multi-Core Support for SKUA Structure "|"Multi-Core support for constructing faults and horizons. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to SKUA Structure. Also requires Multi-Core Foundation Modeling."|"skua_base_mp
+skua_struct_mp"|
+"ED-1065"|"Multi-Core Support for Velocity Modeling Time-to-Depth"|"Multi-Core support for Velocity Modeling and Time-to-Depth Conversion. Limited to 8 cores. For shared memory platforms only (not available for Linux clusters)."|"AO"|"Add-on to Velocity Modeling Time-to-Depth. Also requires Multi-Core Foundation Modeling."|"gocad_geostat_mp
+gocad_timedepth_mp
+gocad_velmodel_mp"|
+"ED-1008"|"Object Modeling"|"Generic object simulation (parametric shapes and user-defined composite objects using interactive object designer). "|"AO"|"Add-on to  Reservoir Properties"|"pm_object"|
+"ED-1017"|"Production Data Analysis"|"Load, manipulate, analyze, and display historical production data and flow simulation results. "|"AO"|"Add-on to Map, X-Section and Well Viewer"|"pda_basic
+pda_gui
+pda_scenario"|
+"ED-92-3"|"Production Risk Assessment Jacta-3DSL Connection"|"Link between Jacta and Streamsim 3DSL® for quantification of production uncertainty linked to geological uncertainty."|"AO"|"Add-on to  Reservoir Risk Assessment (Jacta)"|"jacta_core_3dsl"|
+"ED-1016 "|"Production Risk Assessment Jacta-FrontSim Connection"|"Link between Jacta and Schlumberger FrontSim® for quantification of production uncertainty linked to geological uncertainty."|"AO"|"Add-on to  Reservoir Risk Assessment (Jacta)"|"jacta_core_frontsim"|
+"ED-1018"|"Remote Collaboration"|"Link two or more GOCAD sessions together for remote shared modeling."|"AO"|"Add-on to all GOCAD Products"|"netgocad"|
+"ED-1019"|"Reservoir Data Analysis"|"Perform data analysis for reservoir property modeling. Includes: declustering, histogram smoothing and fitting, vertical proportion and vertical trend curve analysis and modeling"|"AO"|"Add-on to GOCAD 3D Reservoir Grid Builder or SKUA Stratigraphy"|"rdaw_1dtrend
+rdaw_blocking
+rdaw_univariate
+rdaw_gui"|
+"ED-1970"|"Reservoir Properties"|"Perform facies modeling using pixel-based  geostatistical simulation and petrophysical modeling using geostatistical continuous properties simulation & interpolation. Perform post-processing:  average and probability estimates, 2D hydrocarbon volumes, geobodies."|"AO"|"Add-on to Map, X-Section and Well Viewer "|"g2_core
+g2_gui
+gocad_geostat
+pm_categorical
+pm_continuous
+pm_post_processing"|
+"ED-1020"|"Reservoir Risk Assessment (Jacta)  "|"Quantify hydrocarbon volumes uncertainty from structural and geological uncertainty as well as data and parameter uncertainty. Rank reservoir models for use by flow simulators.(In cooperation with Total)"|"AO"|"Add-on to  Reservoir Properties"|"gocad_geostat
+jacta_core
+jacta_gui"|
+"ED-1021"|"Reservoir Simulation Interface"|"Create flow simulation parameter files for Schlumberger Eclipse® and Streamsim 3DSL®, and submit simulation runs."|"AO"|"Add-on to Production Data Analysis"|"rsi_3dsl
+rsi_basic
+rsi_eclipse
+rsi_frontsim
+rsi_gui"|
+"ED-1022"|"Rock Volume Uncertainty (Alea) "|"Gross rock volume uncertainty quantification from interpretation and velocity uncertainties, structural scenarios and fluid contact uncertainties. (In cooperation with Total)"|"AO"|"Add-on to Velocity Modeling Time-to-Depth. Also requires Stratigraphic Modeling and Fault Analysis"|"alea_core
+alea_gui"|
+"ED-1974"|"Seismic Attribute Analysis"|"Seismic attributes computation (dip-based noise attenuation, phase, semblance, etc.) Seismic Facies classification using PCA and Cluster Analysis (K-means)."|"AO"|"Add-on to Interpretation Modeling"|"seismic_attributes
+seismic_classification"|
+"ED-1981"|"Side Track & Collision Risk"|"Construct and optimize side-tracks. Compute well path uncertainty and anti-collision"|"AO"|"Add-on to Basic Well Planning"|"idp_anticollision
+idp_sidetrack
+idp_uncertainty"|
+"ED-1148"|"SKUA Flow Simulation Grids"|"Construct flow simulation grids from Geologic grids."|"AO"|"Add-on to  Map, X-Section and Well Viewer"|"skua_base
+skua_misc
+skua_resgrid"|
+"ED-1118"|"SKUA Run Time License"|"SKUA Structure, SKUA Stratigraphy, and SKUA Flow Simulation Grids without license for GUI."|"P"|"Run time"|"gocad_base_rtl
+gocad_core_rtl
+gocad_gen_data_analysis_rtl
+gocad_geostat_rtl
+gocad_surface_rtl
+gocad_timedepth_rtl
+gocad_velmodel_rtl
+gocad_volume_rtl
+skua_base_mp_rtl
+skua_misc_rtl
+skua_resgrid_mp_rtl
+skua_strati_mp_rtl
+skua_strati_rtl
+skua_struct_mp_rtl
+skua_struct_rtl
+skua_tessel_rtl
+strati_resgrid_rtl"|
+"ED-1146"|"SKUA Stratigraphy"|"Construct horizons using UVT transform. Build Geologic Grids."|"AO"|"Add-on to SKUA Structure"|"skua_misc
+skua_strati"|
+"ED-1143"|"SKUA Structure"|"Construct faults, fault networks, and horizons. No UVT transform. No Geologic Grid creation. "|"AO"|"Add-on to Map, X-Section and Well Viewer"|"skua_base
+skua_struct
+skua_tessel"|
+"ED-1150"|"SKUA Structure Run Time License"|"SKUA Structure without license for GUI."|"P"|"Run time"|"gocad_base_rtl
+gocad_core_rtl
+gocad_gen_data_analysis_rtl
+gocad_geostat_rtl
+gocad_surface_rtl
+gocad_timedepth_rtl
+gocad_velmodel_rtl
+gocad_volume_rtl
+skua_base_rtl
+skua_struct_rtl
+skua_tessel_rtl"|
+"ED-1031"|"Stratigraphic Modeling and Fault Analysis"|"Construct fault displacement, fault separation diagrams, fault contact editing, horizon contact editing, isochores and horizon construction."|"AO"|"Add-on to GOCAD Structural Modeling"|"struct_basic_analysis
+struct_edit
+struct_layering"|
+"ED-1976"|"Velocity Modeling Time-to-Depth"|"Basic velocity modeling:  Construct 3D velocity grids. Define 3D layer-based velocity models. Velocity conversions. Time to depth conversion of surfaces, reservoir grids, velocity grids, and seismic volumes."|"AO"|"Add-on to Foundation Modeling"|"gocad_geostat
+gocad_timedepth
+gocad_velmodel"|
+"ED-1041"|"Volume Shared Memory Server Development Kit"|"Allows sharing of GOCAD Voxet and Volume Interpretation probes across different programs"|"AO"|"DevKit -  Requires Interpretation Modeling"|"volume_explorer_smc
+volume_explorer_sms"|
+"ED-1070"|"Volume Shared Memory Server Run Time Licenses (per user)"|"Run time component of the Volume Shared Memory Server Development Kit"|"P"|"Run time"|"volume_explorer_smc
+volume_explorer_sms"|
+"ED-1040"|"Well Correllation and Stratigraphic Analysis"|"Perform log analysis, log manipulation, facies interpretation, and well correlation."|"AO"|"Add-on to Map, X-Section and Well Viewer"|"views2d_well_correlation
+"|
+"ED-1042"|"Workflow Development Kit"|"Allows the design of workflows inside a GOCAD plug-in. Compared to a GOCAD wizard, a GOCAD workflow keeps a session state and enables any task flow chart"|"AO"|"DevKit - Add-on to Basic Gocad Developer Package"|"N/A"|
+|"Product"|"Description"||"Type"|"License Features"|"Companion Product License Features"|||||
+"DPI-1111"|"2D CRAM - Unrestricted Users License Model"|"2D Common Reflection Angle Pre-stack Depth Migration"|"AO*"|"Add-on to GeoDepth"|"2DCRAM"||||||
+"DPI-1951"|"2D K. Converted Wave Pre-stack Time/Depth"|"2D Kirchhoff Converted Wave Time and Depth Pre-stack and Post-stack Migrations"|"AO*"|"Add-on to GeoDepth"|"2DKCWPSDM_CPU"||||||
+"DPI-1884"|"2D Pre-stack Time/Depth"|"2D Pre-stack Kirchhoff Time and Kirchoff & FX Depth Migrations 
+Comment: FX migration is not parallelized for distributed memory platforms."|"AO*"|"Add-on to GeoDepth"|"2DPreStackMig_CPU"||||||
+"DPI-1871"|"2D Wave Equation Pre-stack Time/Depth 
+(Common Shot) "|"2D Wave Equation Pre-stack Time and Depth Migrations 
+(Common Shot) "|"AO*"|"Add-on to GeoDepth"|"2DFWCSPSDM_CPU"||||||
+"DPI-1134"|"3D CRAM - Unrestricted Users License Model 
+(256 CPUs)"|"3D Common Reflection Angle Pre-stack Depth Migration (includes 256 CPUs)"|"AO*"|"Add-on to GeoDepth"|"3DCRAM
+3DMIG_CT"||||||
+"DPI-11832"|"3D CRAM (128 CPUs)"|"3D Common Reflection Angle Pre-stack Depth Migration (includes 128 CPU for 1 user)"|"AO*"|"Add-on to GeoDepth"|"3DCRAM_128"||||||
+"DPI-11830"|"3D CRAM (32 CPUs)"|"3D Common Reflection Angle Pre-stack Depth Migration (includes 32 CPU for 1 user)"|"AO*"|"Add-on to GeoDepth"|"3DCRAM_32"||||||
+"DPI-11831"|"3D CRAM (64 CPUs)"|"3D Common Reflection Angle Pre-stack Depth Migration (includes 64 CPU for 1 user)"|"AO*"|"Add-on to GeoDepth"|"3DCRAM_64"||||||
+"DPI-1160"|"3D Grid Tomo
+Unrestricted Users License Model"|"3D Grid Tomography
+
+Note: The RFC 2009 version of this product introduces a new licensing scheme based on the unrestricted user license model (i.e. CPU Core). Customers who have already purchased this product will continue to receive legacy “per-user” licenses"|"AO*"|"Add-on to GeoDepth"|"TOMOGRID3D"||||||
+"DPI-1912"|"3D K. PSDM  (Fermat/Eikonal)
+Unrestricted Users License Model"|"3D Kirchhoff PSDM (Fermat & Eikonal Traveltimes) with VTI Anisotropy Support"|"AO*"|"Add-on to GeoDepth"|"3DKPSDMFE"||||||
+"DPI-1914"|"3D K. PSDM  (Wavefront)
+Unrestricted Users License Model"|"3D Kirchhoff PSDM (Wavefront Traveltimes) with VTI Anisotropy Support"|"AO*"|"Add-on to GeoDepth"|"3DKPSDMWF"||||||
+"DPI-1913"|"3D K. PSTM
+Unrestricted Users License Model"|"Kirchhoff 3D Imaging Kernel (3D Pre-stack Time Migration)"|"AO*"|"Add-on to GeoDepth, Echos"|"3DKPSTM"||||||
+"DPI-1524"|"3D K. PSTM Imaging"|"3D Pre-stack Time Migration - Kirchhoff "|"AO*"|"Add-on to Echos "|"3DKPSTM_CPU"||||||
+"DPI-1161"|"3D Layer Tomo
+Unrestricted Users License Model"|"3D Layer Tomography"|"AO*"|"Add-on to GeoDepth"|"TOMOLAYER3D"||||||
+"DPI-1640"|"3D Post-stack Time/Depth"|"3D Post-stack Time and Depth Migrations
+(Shared memory computing only)"|"AO*"|"Add-on to GeoDepth"|"3DPostStackMig_CPU"||||||
+"VI-1526"|"3D Propagator"|"Waveform 2D and 3D Horizon Autotracker
+(Floating License)  "|"AO"|"VoxelGeo VI , Reservoir  Navigator, Reservoir Navigator XV, SeisEarth LI and LI+, GeoDepth"|"Propagator_AO"||||||
+"DPI-1159"|"3D Tomo
+Unrestricted Users License Model"|"3D Grid and Layer Tomography
+
+Note: The RFC 2009 version of this product introduces a new licensing scheme based on the unrestricted user license model (i.e. CPU Core). Customers who have already purchased this product will continue to receive legacy “per-user” licenses"|"AO*"|"Add-on to GeoDepth"|"TOMOGRID3D
+TOMOLAYER3D"||||||
+"DPI-1945"|"3D Wave Equation PSDM (Common Shot)
+Unrestricted Users License Model"|"3D Wave Equation PSDM (Common Shot)"|"AO*"|"Add-on to GeoDepth"|"3DFWCSPSDM"||||||
+"DPI-1453"|"3D Wave Equation PSDM (Narrow Azimuth)"|"3D Wave Equation PSDM (Narrow Azimuth)
+Comment: Narrow Azimuth migration is not parallelized for distributed memory platforms."|"AO*"|"Add-on to GeoDepth"|"3DFWCAPSDM_CPU"||||||
+"DPI-1946"|"3D Wave Equation PSTM(Common Shot)
+Unrestricted Users License Model"|"3D Wave Equation Pre-stack Time Migration
+(Common Shot)
+"|"AO*"|"Add-on to GeoDepth"|"3DCSPSTM"||||||
+"DPI-1916"|"Additional CPU Control
+Unrestricted Users License Model"|"Additional CPUs  for Unrestricted Users License Model. 
+Note: Total number of CPUs = 16+ No. of  Additional CPUs purchased"|"AO"|"Add-on to all Unrestricted Users License  Model entries."|"3DMIG_CT"||||||
+"RCP-1713"|"Advanced Pre-stack Interpreter"|"Seismic Fluid and Lithology Toolbox 
+(Includes: multi-disciplinary crossplotting, AVO modeling and pre-stack gather analysis)"|"AO*"|"Add-on to VoxelGeo VI & XV "|"ProbeVI"||||||
+"VI-1153"|"Advanced Synthetics"|"Advanced Synthetic Seismogram Generation including multi-well synthetics, fluid substitution modeling, wavelet extraction, rock physics, etc."|"AO*"|"Add-on to all SeisEarth Configurations and VoxelGeo VLI+"|"AdvancedSynt_AO"||||||
+"VI-1847"|"AFE (Automatic Fault Extraction)"|"Automated tool for Identifying and Extracting Geologic Discontinuities from Seismic Volumes
+
+"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigation, SeisEarth Configurations"|"AFE"|"Companion Product to SeisEarth LI+
+AFE_CP"|||||
+"VI-11716"|"AFE Planar Cluster Analysis"|"Cluster fault polylines from AFE into fault polyline groups
+
+"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigation, SeisEarth Configurations"|"AFE_PlanarClustering_AO"||||||
+"EP-0120"|"Artist"|"Plotting and Montage Creation"|"AO*"|"Add-on to Geolog"|"Float_Artist"||||||
+"DPI-1959"|"Base CPU Control (16 CPUs)
+Unrestricted Users License Model"|"Base CPU Control  for Unrestricted Users License Model - 16 CPUs. "|"AO"|"Add-on to all Unrestricted Users License  Model entries."|"3DMIG_CT"||||||
+"VI-1849"|"Coherence Cube Attributes"|"Discontinuity Enhancement
+"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Echos, Geodepth"|"Attributes_CHC"|"Companion Product to SeisEarth LI+
+Attributes_CHC_CP"|||||
+"VI-1701"|"Complex Attributes"|"Complex Trace and Seismic Trace Analysis Attributes"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Echos, Geodepth"|"Attributes_CT"||||||
+"VI-1705"|"Comprehensive Attributes"|"Comprehensive Attribute Bundle
+(Includes all attributes except Coherence CubeAttr)"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Echos, Geodepth"|"Attributes_ALL"|"Companion Product (ConocoPhillips ONLY)
+Attributes_ALL_CP"|||||
+"DPI-1943"|"Converted Wave 3D PSDM -Unrestricted Users License Model"|"Converted Wave 3D PSDM Add-on (requires DPI-1914)"|"AO"|"Add-on to 3D K. PSDM"|"3DK_CWDepth_AO"||||||
+"DPI-1942"|"Converted Wave 3D PSTM - Unrestricted Users License Model"|"Converted Wave 3D PSTM Add-on"|"AO"|"Add-on to 3D K. PSTM"|"3DK_CWTime_AO"||||||
+"EP-1140"|"CPM"|"Cluster Performance Monitoring Utility for Seismic Processing and Imaging."|"AO*"|"General Add-on; Included with Echos licenses,
+"|"CPM"||||||
+"VI-1137"|"Curvature Attributes"|"Volumetric Curvature Attribute for Structural Feature Determination"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Geodepth"|"Attributes_CURV"||||||
+"VI-1702"|"Direction Attributes"|"Directional and Illumination Attributes (Azimuth, Dip, Lightscape)"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Echos, Geodepth"|"Attributes_DA"||||||
+"VI-1703"|"Discontinuity Attributes"|"Discontinuity Attribute"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Echos, Geodepth"|"Attributes_DSC"||||||
+"DPI-1531"|"EarthStudy 3D Illumination"|"3D Illumination Studies
+(Includes 3D CRP ray tracing with display of fold/azimuth/etc. information)"|"AO*"|"Add-on to Explorer SGMV, Geodepth"|"EarthStudyIllum"||||||
+"DPI-1532"|"EarthStudy Synthetics"|"2D/3D Synthetic Seismic Full Wave Modeling "|"AO*"|"Add-on to Explorer SGMV, GeoDepth"|"EarthStudy_prl"||||||
+"DPI-0184"|"Echos "|"TIME PROCESSING
+Interactive and Production 2D/3D Seismic Processing"|"P"|"Product"|"ECHOS
+ECHOS_CT
+CPM"|"Companion Product to GeoDepth
+ECHOS_CP
+CPM"|||||
+"DPI-0185"|"Echos Active User License"|"Interactive Echos License"|"AO"|"Add-on to Echos "|"added on to ECHOS_CT"||||||
+"DPI-1911"|"Echos Lite"|"Seismic Data Conditioning for Pre-stack Imaging  (for GeoDepth users)
+Comment: License Restrictions: 1 Interactive User License;  8 CPU Cores (9 CT Threads)
+"|"C"|"Configuration"|"ECHOS
+ECHOS_CT
+CPM"||||||
+"DPI-1613"|"Echos Personal"|" Single User Cluster Processing Solution 
+(Includes: one Echos Personal License, dual CPU. No additional Interactive Echos licenses permissible.)
+Comment: Node Locked License; dual CPU"|"C"|"Configuration"|"ECHOS
+ECHOS_CT
+CPM"||||||
+"DPI-1102"|"Echos Personal Additional CPUs"|"Additional CPU Core Charge"|"AO"|"Add-on to Echos Personal "|"added on to ECHOS_CT"||||||
+"DPI-11864"|"Echos RTM"|"Reverse Time Migration for 256 - 5000 Cores"|"AO*"|"Add-on to Echos "|"ECHOS_RTM
+ECHOS_CT"|"Requires Epos 4 Rollup 3"|||||
+"DPI-11888"|"Echos RTM (additional cores)"|"4 Additional cores for RTM migration"|"AO*"|"Add-on to Echos "|"ECHOS_RTM
+ECHOS_CT"|"Requires Epos 4 Rollup 3"|||||
+"DPI-1339"|"Echos Velocity Navigator"|"Task-Oriented Velocity Analysis.  Includes time and time migrated operations performed on CRP (time migrated) or CMP offset gathers (unmigrated)
+"|"AO*"|"Add-on to Echos "|"VelNav_ECHOS"||||||
+"EP-1671"|"Epos Data Loading and QC"|"Epos Data Loading and QC Bundle for G&G Analysts Includes Data Import/Export (ASCII files, ULA, and SEG-Y) and Data QC (Well Log, Geometry View and seismic data windows)"|"P"|"Product"|"EposLoadQC"||||||
+"EP-0191"|"Epos GeoFrame Link
+"|"GeoFrame Interoperability (Wells)"|"AO"|"Add-on to Geolog"|"DataServer_GF"||||||
+"EP-1547"|"Epos GOCAD Link"|"GOCAD Interoperability (Wells)"|"AO"|"Add-on to Geolog"|"DataServer_GC"||||||
+"EP-1131"|"Epos OpenSpirit® Link"|"Epos-OpenSpirit Connectivity"|"AO"|"General Add-on"|||||||
+"EP-1618"|"Epos OpenWorks Link"|"OpenWorks Interoperability (Wells)"|"AO"|"Add-on to Geolog"|"DataServer_OW"||||||
+"VI-1473"|"Explorer EM  (EarthModel)"|"Time to Depth Conversion - Maps 
+(Includes iMap)"|"C"|"Configuration"|"Explorer_EM
+DataServer_GF
+DataServer_OW"|"Companion Product version to iMap, VoxelGeo, SeisEarth, Geolog XV 
+Explorer_EM_CP"|||||
+"VI-1052"|"Explorer Gold"|"Time to Depth Conversion - Maps and Seismic Volumes, and Geostatistical Mapping
+(Includes: Explorer MV, iMap, User-Defined Volume Math Manipulations, Multi-Line Time to Depth Conversion, and Geostatistical Mapping) 
+Note: This bundle can only be quoted for sales with a minimum of five seats."|"SB"|"Sales Bundle"|"Explorer_Gold
+DataServer_GF
+DataServer_OW"||||||
+"VI-1474"|"Explorer MV (Maps & Volumes)"|"Time to Depth Conversion - Maps and Seismic Volumes 
+(Includes: iMap and User-Defined Volume Math Manipulations)"|"C"|"Configuration"|"Explorer_MV
+DataServer_GF
+DataServer_OW"||||||
+"VI-1475"|"Explorer SGMV  (SolidGeo, Maps, and Volumes) "|"Time to Depth Conversion - 3D Models, Maps and Seismic Volumes 
+(Includes: iMap, SolidGeo and User-Defined Volume Math Manipulations)"|"C"|"Configuration"|"Explorer_SGMV
+DataServer_GF
+DataServer_OW"|"Companion Product version to GeoSec 3D
+Explorer_SGMV_CP"|||||
+"RCP-1865"|"FastVEL (GeoDepth/Echos)"|"Automatic HiRes Velocity Updates based on AVO Criteria (SWAN method)"|"AO*"|"Add-on to Echos, GeoDepth"|"FastVEL"||||||
+"RCP-1851"|"FastVEL (Probe)"|"Automatic HiRes Velocity Updates based on AVO Criteria (SWAN method)"|"AO"|"Add-on to Probe"|"FastVEL_AO"||||||
+"VI-1953"|"FaultTrak"|"Fault Auto-Tracker"|"AO"|"Add-on to VoxelGeo VI , VI+ and VLI+, Reservoir  Navigator, Reservoir Navigator XV, SeisEarth LI and LI+, GeoDepth"|"FaultTrak_AO"||||||
+"VI-1138"|"Feature Enhancement Attributes"|"Coherence Cube, Discontinuity and Volumetric Curvature Attribute Bundle."|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Geodepth"|"Attributes_FESA"||||||
+"VI-1557"|"FlowView"|"Reservoir Geocellular Model Viewer
+Included in Reservoir Navigator XV"|"AO"|"Add-on to Reservoir Navigator "|"FlowView_AO"||||||
+"DPI-1270"|"GeoDepth"|"DEPTH PROCESSING
+2D/3D Velocity Model Building and Depth Imaging"|"P"|"Product"|"Power2D3D
+DataServer_GF
+DataServer_OW"|"Companion Product to Echos
+Power2D3D_CP"|||||
+"DPI-1268"|"GeoDepth 2D "|"2D Velocity Model Building and Depth Imaging"|"C"|"Configuration"|"Power2D
+DataServer_GF
+DataServer_OW"||||||
+"DPI-1278"|"GeoDepth EM "|"Multi-2D Line Velocity Model Building and Depth Imaging"|"C"|"Configuration"|"PowerEM
+DataServer_GF
+DataServer_OW"||||||
+"DPI-1664"|"GeoDepth Velocity Navigator"|"Task Oriented Velocity Analysis. (Includes offset and angle support, horizon and vertical based, time, time migrated, depth migrated domains.)"|"AO*"|"Add-on to GeoDepth"|"VelNav_GeoDepth"||||||
+"RCP-0138"|"Geolog CorEVAL"|"Advanced Core Analysis"|"AO"|"Add-on to Geolog"|"Float_Coreval"||||||
+"RCP-1511"|"Geolog Correlator"|"Multi-Well Correlator"|"AO"|"Add-on to Geolog"|"Float_Correlator"||||||
+"RCP-0148"|"Geolog Determin"|"Deterministic Petrophysical Analysis"|"AO"|"Add-on to Geolog"|"Float_Determin"||||||
+"RCP-0152"|"Geolog DLIS"|"Loading/Unloading of Well Data in DLIS Format"|"AO"|"Add-on to Geolog"|"Float_DLIS"||||||
+"RCP-1391"|"Geolog Facimage"|"Electrofacies Analysis and Core Data Modeling"|"AO"|"Add-on to Geolog"|"Float_Facimage"||||||
+"RCP-1700"|"Geolog Full Waveform Sonic "|"Geolog Full Waveform Sonic Calculation"|"AO"|"Add-on to Geolog"|"Float_SWP"||||||
+"RCP-0187"|"Geolog FuzzyLogic"|"Permeability and Facies Prediction"|"AO"|"Add-on to Geolog"|"Float_FuzzyLogic"||||||
+"RCP-1392"|"Geolog Geomage"|"Borehole Image Log Processing including Dip Meter Calculations
+"|"AO"|"Add-on to Geolog"|"Float_Imager"||||||
+"RCP-1542"|"Geolog Geosteer"|"Logging while Drilling Analysis
+(Includes: Gamma Ray Forward Modeling)
+Note: See Real Time GeoSteer for the full GeoSteering bundle "|"AO"|"Add-on to Geolog"|"Float_Geosteer"||||||
+"RCP-1202"|"Geolog ImagePack "|"Graphics File Conversion Utilities"|"AO"|"Add-on to Geolog"|"Float_ImagePack"||||||
+|"Geolog LSSA"||"AO"|"Add-on to Geolog"|"Float_LSSA"||||||
+"RCP-1237"|"Geolog Multimin"|"Optimization-based Petrophysical Analysis"|"AO"|"Add-on to Geolog"|"Float_Multimin"||||||
+"RCP-1241"|"Geolog NMR"|"NMR Processing, Inversion, and Interpretation"|"AO"|"Add-on to Geolog"|"Float_NMR"||||||
+"RCP-1734"|"Geolog Resistivity Log Modeling"|"Resistivity Log Modeling"|"AO"|"Add-on to Geolog"|"Float_Hardman"||||||
+"RCP-1676"|"Geolog Russian Logging Tool Support"|"Geolog  Russian Logging Tool Support"|"AO"|"Add-on to Geolog"|"Float_Russian"||||||
+"RCP-1300"|"Geolog Section"|"Geological Canvas for Cross-section Building"|"AO"|"Add-on to Geolog"|"Float_Section"||||||
+"RCP-1328"|"Geolog Synseis"|"Borehole Geophysics"|"AO"|"Add-on to Geolog"|"Float_Synseis"||||||
+"VI-1712"|"Geolog XV (eXtra Value) Upgrade"|"3D Visualization and Mapping of Well Data for Geolog Users
+(Includes: Log Attribute Mapping, 3D Visualization of Logs and Grids, Draping of Log Attributes on Structural Maps)"|"P"|"XV (eXtra Value) Geoscience Interpretation Line Product "|"Geolog_XV"||||||
+"RCP-0195"|"GeologBasic "|"Borehole Data Management and Analysis for the Generalist
+
+"|"SB"|"Sales Bundle"|"GeoLogBASIC"||||||
+"RCP-1888"|"GeologELP"|"Entry Level Petrophysics 
+(Includes: GeologBasic and Geolog Determin)"|"SB"|"Sales Bundle"|"GeoLogELP"||||||
+"RCP-0196"|"GeologFE "|"Petrophysical Analysis and Formation Evaluation for the Petrophysicist
+(Includes : GeologBasic, Determin, Loglan, Section, Artist, and ImagePack)
+"|"SB"|"Sales Bundle"|"GeoLogFE"|"Companion product to Probe and Vanguard
+GeoLogFE_CP"|||||
+"RCP-1057"|"GeologGeo"|"Geolog for Geologists
+(Includes: Geolog Basic, Correlator, and Section)
+"|"SB"|"Sales Bundle"|"GeologGEO"||||||
+"RCP-0198"|"GeologGold "|"Petrophysical Analysis and Formation Evaluation
+(Includes: GeologFE, Multimin, and Synseis)
+"|"SB"|"Sales Bundle"|"GeoLogGOLD"||||||
+"RCP-1060"|"GeologRTP "|"Geolog Real Time Petrophysics 
+(Includes: Geolog ELP and OPSLINK)
+"|"SB"|"Sales Bundle"|"GeoLogELP
+IDEAS_OPSLINK
+IDEAS_OPSLINK_REPOSITORY_L
+IDEAS_OPSLINK_SUBSCRIPTION_L"||||||
+"VI-1189"|"GeoSec 2D"|"2D Structural Restoration and Balancing "|"P"|"Product"|"GeoSec2D
+DataServer_GF
+DataServer_OW"|"Companion product version to SeisEarth
+GeoSec2D_CP"|||||
+"VI-1190"|"GeoSec 2D/3D"|"2D/3D Structural Restoration and Balancing "|"SB"|"Sales Bundle"|"GeoSec_Bundle_2D3D
+DataServer_GF
+DataServer_OW"||||||
+"RCP-1869"|"IFP Inversion"|"Simultaneous Inversion"|"AO"|"Add-on to Vanguard "|"IFP_AO"||||||
+"RCP-1878"|"IFP Inversion (Multi-CPU)"|"Simultaneous Inversion 
+Multi-CPU suport on Linux Clusters only"|"AO"|"Add-on to Vanguard "|"IFP_prl_AO"||||||
+"VI-1549"|"iMap"|" Mapping "|"P"|"Product "|"iMap
+DataServer_GF
+DataServer_OW"|"Companion Product to SeisEarth LI+, VoxelGeo VI, GeologBasic, Reservoir Navigator, Probe, Vanguard RC
+iMap_CP"|||||
+"VI-1675"|"iMap XV  (eXtra Value) "|"Comprehensive Mapping  
+(Includes: Integrated Seismic and Log Attribute Mapping, Geostatistical Mapping, 3D Visualization, Fault Boundary Generation, and MapLan Programming Toolbox)
+"|"C"|"Configuration"|"iMap_XV
+DataServer_GF
+DataServer_OW"|"Companion Product SeisEarth LI+, VoxelGeo VI, Reservoir Navigator,
+iMap_XV_CP"|||||
+"WPD-1766"|"Interpret"|"Transient Well Testing, Design  and Analysis"|"P"|"Product"|"Interpret_GLG
+Interpret_MLS
+Interpret_MLT
+Interpret_MLV
+Interpret_MLW
+Interpret_STD
+Interpret_WFT"||||||
+"EP-1227"|"Loglan"|"Log Manipulation Batch Programming"|"AO*"|"Add-on to Geolog"|"Float_Loglan"||||||
+"geostatvol"|"Map Geostatistics"|"Map-Based Geostatistics and Uncertainty Analysis"|"AO*"|"Add-on to all Explorer, VoxelGeo VI, GeologBasic, Resrevoir Navigator, Probe, Geodepth, iMap  "|"GeoStatistics"||||||
+"EP-1372"|"MapLan"|"Map Manipulation Batch Programming"|"AO*"|"Add-on to Explorer EM, VoxelGeo VI, GeologBasic, Resrevoir Navigator, Probe, Geodepth, iMap, SeisEarth LI+, Vanguard RC, Loglan"|"Loglan_Maps"||||||
+"VI-1727"|"Mapping"|"Mapping Functionality (Includes: gridding, contouring, grid editing and mathematical operations on grids)"|"AO"|"Add-on to Reservoir Navigator XV "|"Mapping_AO"||||||
+"RCP-1663"|"Model-Driven Log Property Propagation "|"Geostatistical Log Property Volume Creation"|"AO*"|"Add-on to VoxelGeo VI & XV and  Reservoir Navigator, Probe, GeoDepth"|"GeoStatVol"||||||
+"RCP-1152"|"Multi-Azimuth Probe
+"|"Multi-Azimuth Amplitude versus Offset Analysis and Inversion."|"AO"|"Add-on to Probe"|"MultiAzimuthAVA_AO"||||||
+"DPI-1139"|"Multi-Azimuth Tomography"|"Multi-Azimuth Tomographic Updating"|"AO"|"Add-on to 3D Grid Tomo configurations (Unrestricted Users License Model DPI 1159, DPI-1160 and per user  model DPI-0114, DPI-1522 )  "|"Tomog3D_MultiAzim_AO"||||||
+"RCP-1715"|"Multi-CPU Support"|"Multi-CPU Support for Eigenvalue Inversion Method
+For shared memory platforms only (not available for Linux clusters)"|"AO"|"Add-on to Vanguard  Geophysicist  and Vanguard RC "|"Vanguard_prl_AO"||||||
+"VI-1477"|"Multi-Lines T2D"|"Multi-Line Time to Depth Conversion "|"AO"|"Add-on to Explorer EM, MV, and SGMV "|"MultiLines_T2D_AO"||||||
+"VI-1714"|"Multi-pipe"|"Support for Multi-Pipe (Visionarium) Displays"|"AO"|"Add-on to VoxelGeo VI  & XV "|"VoxelGeo_MPP_AO"||||||
+"RCP-1240"|"NexModel"|"Seismic Facies Well Log Calibration"|"AO*"|"Add-on to Stratimagic"|"NX_COMMON"||||||
+"TP-1252"|"OpenInventor on SUN (Float)"|"Required for all VG products on SUN"||"Third Party"|"VGTGS"||||||
+"EP-1735"|"OpsLink"|"Well Data Transfer from WITSML servers to EPOS repositories  (1 subscription + 1 database)"|"AO"|"General Add-on"|"IDEAS_OPSLINK
+IDEAS_OPSLINK_REPOSITORY_L
+IDEAS_OPSLINK_SUBSCRIPTION_L"||||||
+"EP-1055"|"OpsLink Subscription"|"Additional concurrent subscription to WITSML server"|"AO"|"Add-on to OpsLink"|"IDEAS_OPSLINK_SUBSCRIPTION_L"||||||
+"EP-1056"|"OpsLink Database"|"Additional concurrent database link to which WITSML data is transferred  to."|"AO"|"Add-on to OpsLink"|"IDEAS_OPSLINK_REPOSITORY_L"||||||
+"VI-1877"|"Pre-stack Interpreter"|"Pre-stack Gather Display and Analysis for the Interpreter
+(Includes: AVO modeling and pre-stack gather analysis))"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations"|"PS_Interpreter"||||||
+"RCP-1286"|"Probe     "|"AVO Reservoir Characterization "|"P"|" Product"|"Probe2D3D
+DataServer_GF
+DataServer_OW"|"Companion Product to Echos, Probe
+Probe2D3D_CP"|||||
+"DPI-1682"|"Probe Velocity Navigator "|"Task Oriented Residual Moveout Analysis 
+(Includes time and time migrated operations performed on CRP (time migrated) or CMP (offset or angle) gathers.
+"|"AO*"|"Add-on to Probe"|"VelNav_Probe"||||||
+"WPD-1881"|"Real Time Geosteer"|"Geosteering Workflow 
+(Includes: GeologBasic, Geolog Geosteer, OpsLink, Sysdrill Director (Office) )
+"|"SB"|"Sales Bundle"|"Float_Geosteer
+GeoLogBASIC
+IDEAS_GENPLOT
+IDEAS_OPSLINK
+IDEAS_OPSLINK_REPOSITORY_L
+IDEAS_OPSLINK_SUBSCRIPTION_L
+IDEAS_PLANNING
+IDEAS_SURVEY
+IDEAS_SYSDRILL"||||||
+"VI-1366"|"Reservoir Navigator "|"Multi-Survey Interpretation 
+(Includes: Multi-survey Interpretation within a 3D canvas)"|"P"|"Product"|"Reservoir_Navigator
+DataServer_GF
+DataServer_OW"||||||
+"RCP-1596"|"Rock Physics"|"Rock Physics Modeling and Fluid Substitutions"|"AO"|"Add-on to Vanguard Geophysicist "|"RockPhysics_AO"||||||
+"VI-1051"|"SeisEarth Gold"|"Comprehensive Multi-Survey (2D/3D) Interpretation
+(Includes: SeisEarth XVSG, iMap, Comprehensive Seismic Attributes, and Designer) 
+Note: This bundle can only be quoted for sales with a minimum of five seats."|"SB"|"Sales Bundle"|"SeisEarth_Gold
+FaultTrak_AO
+DataServer_OW
+DataServer_GF"|"No Companion product option"|||||
+"VI-1561"|"SeisEarth LI+"|"Multi-Survey (2D/3D) Section Interpretation 
+(Includes: Section, Basemap, and multi-survey support)
+"|"P"|"Product  "|"SeisEarth
+DataServer_OW
+DataServer_GF"|"Companion product version to VoxelGeo, Explorer, Reservoir Navigator, Probe, Vanguard, GeoDepth
+SeisEarth_CP"|||||
+"VI-1674"|"SeisEarth XV"|"Multi-Survey (2D/3D) Basin to Prospect  Scale Interpretation
+(Includes: Section, Basemap, 3D Canvas, 3D Propagator, FaultTrak, and multi-survey support)"|"SB"|"Sales Bundle"|"SeisEarth_XV
+DataServer_OW
+DataServer_GF"|"Companion product version to VoxelGeo, 
+SeisEarth_XV_CP"|||||
+"VI-1868"|"SeisEarth XVSG"|"Multi-Survey (2D/3D) Basin to Prospect Scale Interpretation and Modeling 
+(Includes: SeisEarth XV and SolidGeo)
+
+"|"SB"|"Sales Bundle"|"SeisEarth_XVSG
+DataServer_OW
+DataServer_GF"|"No Companion product option"|||||
+"RCP-1301"|"SeisFacies"|"Multi-Attribute Volume Classification"|"AO"|"Add-on to Stratimagic"|"SM_SEISFACIES"||||||
+"RCP-1411"|"Seismic-Driven Log Property Propagation 
+"|"Neural Network Log Property Volume Creation "|"AO*"|"VoxelGeo VI & XV and  Reservoir Navigator , Stratimagic, Probe, Vanguard Geophysicist"|"Comet"||||||
+"VI-1305"|"SeisX"|"Line-Based Seismic Interpretation "|"P"|"Product"|"cboSEISX40_FULL"||||||
+"VI-1312"|"SeisX NT"|"Line-Based Seismic Interpretation 
+Comment:  Limited for PC Node Lock. Requires Exceed"|"C"|"Configuration"|"ntSEISX40_FULL"||||||
+"VI-1317"|"SolidGeo "|"Structural Framework Model Building and Mapping  (Includes iMap)"|"P"|"Product
+"|"SolidGeo"|"Companion Product version to SeisEarth LI+, VoxelGeo VI, GeologBasic, Reservoir Navigator, iMap, Vanguard RC
+SolidGeo_CP"|||||
+"VI-1749"|"Spectral Decomposition Attribute"|"Spectral Decomposition Attribute"|"AO*"|"Add-on to all VoxelGeo, Reservoir Navigator, SeisEarth Configurations, Stratimagic, Probe, Vanguard, Echos, GeoDepth"|"Attributes_SD"||||||
+"ED-1136"|"StratEarth"|"Well Log Cross Correlation and Section Application"|"AO"|"Add-on to all SeisEarth Configurations"|"gocad_base_ste
+gocad_core_ste
+gocad_epos_access_ste
+gocad_gen_data_analysis_ste
+gocad_gui_ste
+gocad_surface_ste
+gocad_viewer_ste
+gocad_volume_ste
+views2d_well_correlation_ste
+views2d_well_viewer_ste
+views2d_xsection_viewer_ste"||||||0
+"RCP-1322"|"Stratimagic "|"Seismic Facies Classification and Analysis
+(Includes interpretation toolbox and 3D Propagator for Stratimagic)"|"P"|"Product"|"STRATIMAGIC
+SM_TRACKER
+DX_COMMON"||||||
+"RCP-1736"|"Stratimagic GeoFrame/IESX & Charisma Link "|"GeoFrame/IESX and Charisma Horizon, Seismic and Well Data Links"|"AO*"|"Add-on to Stratimagic"|"DataServer_GF"||||||
+"RCP-1254"|"Stratimagic OpenWorks Link"|"OpenWorks Horizon, Seismic and Well Data Links"|"AO"|"Add-on to Stratimagic"|"DataServer_OW"||||||
+"RCP-1568"|"Stratimagic VI"|"Seismic Facies Classification 
+(Stratimagic configuration without the 3D Propagator)"|"CP"|"Companion product to SeisEarth, VoxelGeo "|"STRATIMAGIC_CP
+DX_COMMON"||||||
+"RCP-1323"|"StratQC (iMap)"|"Geoscience Mapping "|"AO*"|"Add-on to Stratimagic"|"Fastqc"||||||
+"DPI-1326"|"Surveyor "|"Survey Planning and Design - For the Specialist"|"P"|"Product"|"Surveyor"||||||
+"WPD-1062"|"Sysdrill Anti-Collision"|"Proximity Anti-Collision Analysis
+"|"AO"|"Add-on to  Sysdrill Director (Office) or Sysdrill  Director (Rigsite) "|"IDEAS_PROXIMITY"||||||
+"WPD-1527"|"Sysdrill Designer"|"Embedded Well Planning"|"AO"|"VoxelGeo XV, Reservoir Navigator,  and SeisEarth XV"|"SysdrillDesigner_AO"||||||
+"WPD-1093"|"Sysdrill BGS Magnetic Declination"|"British Geological Society Data Files
+Can only be sold to customers listed on this link: http://www.geomag.bgs.ac.uk/bggm.html
+Contact Robert Innes for additional information
+"|"AO"|"Add-on to Sysdrill Director (Office) or  Sysdrill Director (Rigsite)"|"IDEAS_BGGM"||||||
+"WPD-1465"|"Sysdrill Casing Design"|"Casing String Design
+"|"P"|"Product"|"IDEAS_CASING_DESIGN
+IDEAS_CASING_SEAT
+IDEAS_SYSDRILL"||||||
+"WPD-1092"|"Sysdrill Casing Wear Analysis"|"Casing Wear Analysis"|"AO"|"Add-on to Sysdrill Casing Design"|"IDEAS_CASING_WEAR"||||||
+"WPD-1466"|"Sysdrill Cementing "|"Cementing Optimization and Analysis
+"|"P"|"Product"|"IDEAS_CEMENTING
+IDEAS_SYSDRILL"||||||
+"WPD-1470"|"Sysdrill CRSA"|"Critical Rotary Speed Analysis"|"AO"|"Add-on to Sysdrill Torque & Drag"|"IDEAS_VIBRATIONS"||||||
+"WPD-1413"|"Sysdrill Director (Office)"|"Directional Well Planning & Survey Management for the Office"|"P"|"Product"|"IDEAS_GENPLOT
+IDEAS_PLANNING
+IDEAS_SURVEY
+IDEAS_SYSDRILL"||||||
+"WPD-1061"|"Sysdrill Director (Rigsite)"|"Survey Management for the Rigsite 
+"|"P"|"Product"|"IDEAS_GENPLOT
+IDEAS_SURVEY
+IDEAS_SYSDRILL"||||||
+"WPD-1430"|"Sysdrill DirectorGeo"|"3D Directional Well Planning and Survey Management. 
+(Includes: Sysdrill Director (Office), Sysdrill Anti-Collision,  Sysdrill DirectorGeo Upgrade & Sysdrill SaG)"|"P"|"Product"|"IDEAS_GENPLOT
+IDEAS_PLANNING
+IDEAS_PROXIMITY
+IDEAS_SURVEY
+IDEAS_SYSDRILL
+IDEAS_VOXEL_GEO"||||||
+"WPD-1875"|"Sysdrill DS-1 Compliance"|"TH-Hill DS-1 Fatigue Analysis"|"AO"|"Add-on to Sysdrill Torque & Drag"|"IDEAS_DS1"||||||
+"WPD-1091"|"Sysdrill Fluid Temperature Modeling"|"Fluid Temperature Modeling"|"AO"|"Add-on to Sysdrill Hydraulics"|"IDEAS_THERMAL_MODELLING"||||||
+"WPD-1464"|"Sysdrill Hydraulics"|"Hydraulics Optimization and Analysis"|"P"|"Product"|"IDEAS_HYDRAULICS
+IDEAS_SYSDRILL"||||||
+"WPD-1415"|"Sysdrill Survey Tool Correction "|"Survey Tool Correction
+"|"P"|"Product"|"IDEAS_SAG"||||||
+"WPD-1416"|"Sysdrill Torque & Drag "|"Torque and Drag Optimization and Analysis
+"|"P"|"Product"|"IDEAS_TORQUE_AND_DRAG
+IDEAS_SYSDRILL"||||||
+"WPD-1094"|"Sysdrill User Manager"|"User Manager"|"AO"|"Add-on to Sysdrill Director (Office) or  Sysdrill Director (Rigsite)"|"IDEAS_USERMAN"||||||
+"WPD-1469"|"Sysdrill Well Control"|"Kick Tolerance & Kill Sheet"|"P"|"Product"|"IDEAS_WELL_CONTROL
+IDEAS_SYSDRILL"||||||
+"DPI-1158"|"Tomo Additional CPU Control
+Unrestricted Users License Model"|"Additional CPUs  for Unrestricted Users License Model. 
+Note: Total number of CPUs = 16+ No. of  Additional CPUs purchased"|"AO"|"Add-on to all Unrestricted Users License  Model entries."|"3DTOMO_CT"||||||
+"DPI-1157"|"Tomo Base CPU Control (16 CPUs)
+Unrestricted Users License Model"|"Base CPU Control  for Unrestricted Users License Model - 16 CPUs. "|"AO"|"Add-on to all Unrestricted Users License  Model entries."|"3DTOMO_CT"||||||
+"DPI-1135"|"Tomo Facilitator
+Unrestricted Users License Model"|"Automatic Event picking of pre and post stack data and attribute (Dip/Azimuth/Continuity) generation for seed point determination."|"AO*"|"Add-on to 3D Grid Tomo "|"TOMOFACIL"||||||
+"DPI-1944"|"TTI Anisotropy
+Unrestricted Users License Model "|"TTI  Anisotropy Support for 3D Kirchhoff Wavefront PSDM  (Add-on to Wavefront TTS for 3D PSDM)"|"AO"|"Add-on to 3D K. PSDM  (Wavefront)"|"3DK_TTI_AO"||||||
+"RCP-1482"|"Vanguard Geophysicist"|"Seismic Reservoir Characterization for the Geophysicist
+(Includes: Elastic Inversion, Geostatistics and ComplexAttr and DirectionAttr Packages)"|"C"|"Configuration"|"Vanguard
+DataServer_OW
+DataServer_GF"|"Companion product to Probe
+Vanguard_CP"|||||
+"RCP-1481"|"Vanguard Interpreter"|"Seismic Reservoir Characterization for the Interpreter 
+(Includes: Seismic-Driven Log Property Propagation, Geostatistics, Rock Physics, and ComplexAttr and DirectionAttr Packages)"|"C"|" Configuration"|"Vanguard_Interp
+DataServer_OW
+DataServer_GF"|"Companion Product to Stratimagic, Vanguard
+Vanguard_Interp_CP"|||||
+"RCP-1442"|"Vanguard RC 
+(Reservoir Characterization)"|"Seismic Reservoir Characterization
+(Vanguard Interpreter and Vanguard Geophysicist)
+Comment:  For the Specialist"|"SB"|"Sales Bundle"|"Vanguard_RC
+DataServer_OW
+DataServer_GF"||||||
+"EP-1440"|"VolLan"|"Volume Manipulation Batch Programming"|"AO*"|"General Add-on"|"VolLAN"||||||
+"VI-1476"|"Volumes T2D"|"Time to Depth Conversion - Seismic Volumes"|"AO"|"Add-on to Explorer EM "|"Volumes_T2D_AO"||||||
+"VI-1342"|"VoxelGeo VI "|"Voxel-Volume Interpretation
+"|"P"|"Product"|"VoxelGeo_VI
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV, Stratimagic, Probe, Vanguard, Echos, GeoDepth
+VoxelGeo_VI_CP
+VOXELGEO"|||||
+"VI-1666"|"VoxelGeo VI+"|"Voxel-Volume Interpretation with Automatic Horizon Propagation 
+(Includes: VoxelGeo VI and 3D Propagator) 
+"|"SB"|"Sales Bundle"|"VoxelGeo_VIPlus
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV
+VoxelGeo_VIPlus_CP
+VOXELGEO"|||||
+"VI-1866"|"VoxelGeo VLI+"|"Voxel-Volume and  Multi-survey (2D/3D) Section Interpretation with Automatic Horizon Propagation
+(Includes: VoxelGeo VI, SeisEarth LI+ and 3D Propagator) 
+"|"SB"|"Sales Bundle"|"VoxelGeo_VLIPlus
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV
+VoxelGeo_VLIPlus_CP
+VOXELGEO"|||||
+"VI-1365"|"VoxelGeo XV"|"Voxel-Volume and Multi-Survey (2D/3D) Volume Interpretation with Automatic Horizon Propagation and Fault Tracking
+(Includes: VoxelGeo VI, Reservoir Navigator,3D Propagator and Fault Track)
+"|"SB"|" Sales Bundle"|"VoxelGeo_XV
+VOXELGEO
+DataServer_OW
+DataServer_GF"|"Companion product version to SeisEarthXV
+VoxelGeo_XV_CP
+VOXELGEO"|||||
+"VI-1530"|"VXplot"|"Multi-Disciplinary Crossplotting"|"AO"|"VoxelGeo VI & XV "|"VXPlot_AO"||||||
+"EP-1680"|"WAM"|"Web-Based, GIS driven, Well and Seismic Data Browser
+"|"AO*"|"General Add-on"|"WAM
+WAM_SERVER"||||||
+"EP-11889"|"Additional WAM Client License"||||"WAM"||||||
+"DPI-1948"|"Wave Equation VTI Anisotropy - Unrestricted Users License Model"|"VTI Anisotropy Support for 2D/3D Time/Depth Wave Equation Migration (Common Shot)"|"AO"|"Add-on to 3D Wave Equation PSDM (Common Shot) "|"CSAnis_AO"||||||
+|"Product"|"Description"||"Type"|"License Features"|
+"DPI-1095"|"Echos Corporate Base (4 CPU Cores)"|"Multi-site Echos License (for multi-site Echos licensing over 200 CPU Cores) - WAN or LAN Licenses
+Bundle is only available for corporate deals.
+Price = $500 X (N-4) CPU Cores"|"SB"|"Sales Bundle"|"CPM
+ECHOS
+ECHOS_CT
+ECHOS_EPOS"|
+"DPI-1097"|"Echos Corporate Additional CPU Cores"||"AO"|"Add-on to Echos Corporate Base "|"ECHOS_CT"|
+"DPI-1098"|"Active User License for Echos Corporate (2-5 users)"|"Interactive Echos License
+Add-on is only available for corporate deals."|"AO"|"Add-on to Echos Corporate Base "|"CPM
+ECHOS
+ECHOS_CT"|
+"DPI-1099"|"Active User License for Echos Corporate (6-51 users)"||"AO"|||
+"DPI-1100"|"Active User License for Echos Corporate (52+ users)"||"AO"|||
+"DPI-1080"|"Additional CPU Control (up to 516 CPU Cores) for Corporate Bundles"|"Additional CPU Cores  for Unrestricted Users License Model. 
+Note: Total number of CPU Cores = 16+ No. of  Additional CPU Cores purchased
+
+Add-on is only available for corporate deals in China."|"AO"|"Add-On"|"3DMIG_CT
+3DTOMO_CT"|
+"DPI-1081"|"Additional CPU Control (above 516 CPU Cores) for Corporate Bundles"|"Additional CPUs  for Unrestricted Users License Model. 
+Note: Total number of CPU Cores = 16+ No. of  Additional CPU Cores purchased
+
+Add-on is only available for corporate deals in China."|"AO"|"Add-On"|"3DMIG_CT
+3DTOMO_CT"|
+"DPI-1082"|"3D Prestack Time/Depth Migration and Tomography Bundle"|"Includes: Unrestricted Jobs for all licensed CPU cores
+DPI-1913 3D K. PSTM
+DPI-1912 3D K PSDM (Eikonal/Fermat)
+DPI-1914 3D K PSDM (Wavefront)
+DPI-1944 3D TTI Anisotropy Support
+DPI-1942 3D Converted Wave PSTM
+DPI-1943 3D Converted Wave PSDM
+DPI-1945 3D Wave Equation PSDM (Common Shot)
+DPI-1948 3D Wave Equation VTI Anisotropy Support
+DPI-1525 3D Layer Tomography (5 Users)
+
+Bundle is only available for corporate deals in China."|"SB"|"Sales Bundle"|"3DFWCSPSDM
+3DK_CWDepth_AO
+3DK_CWTime_AO
+3DK_TTI_AO
+3DKPSDMFE
+3DKPSDMWF
+3DKPSTM
+CSAnis_AO
+TOMOLAYER3D"|
+"DPI-1083
+(old)"|"Seismic Processing Bundle"|"Includes:DPI-0184 Echos - Time Processing 
+
+Bundle is only available for corporate deals in China."|"SB"|"Sales Bundle"|"CPM
+ECHOS
+ECHOS_CT"|"Epos 4.0"
+"DPI-1083
+(New)"|"Seismic Processing Bundle"|"Includes:DPI-0184 Echos - Time Processing 
+
+Bundle is only available for corporate deals in China."|"SB"|"Sales Bundle"|"CPM
+ECHOS
+ECHOS_CT
+ECHOS_EPOS"|"Epos 4.1"
+"DPI-1084"|"2D Pre-Stack Migration Bundle (5 Users)"|"Includes:
+DPI-1883 2D Kirchhoff Time and Kirchhoff & FX Depth Migrations
+DPI-1886 2D Wave Equation Prestack Time & Depth Migrations (Common Shot)
+
+Bundle is only available for corporate deals in China."|"SB"|"Sales Bundle"|"2DFWCSPSDM_1024
+2DPreStackMig_1024"|
+"ESB-1918"|"Standard Interpretation Workflow"|"Multi-survey interpretation with 3DCanvas, 
+Section Views, standard mapping, basic modeling (T-surf creation and editing), Well Calibration (synthetics generation), 3D and 2D Propagator, FaultTrak (semi-automatic fault picking) and Complex attributes (Hilbert Transform Attributes)
+Bundle is only available for corporate deals. Regional EVP approval required."|"SB"|"Sales Bundle"|"Std_Interp
+DataServer_GF
+DataServer_OW"|
+"ESB-1919"|"Advanced Interpretation Workflow"|"Standard Interpretation bundle plus comprehensive attributes, Pre-Stack interpreter, pre-stack and post stack crossplot, Advanced mapping with Geostatistics, Well Designer and Map-based Time-depth conversion.
+Bundle is only available for corporate deals. Regional EVP approval required.
+"|"SB"|"Sales Bundle"|"Adv_Interp
+DataServer_GF
+DataServer_OW"|
+"ESB-1922"|"Time- Depth"|"Advanced time-depth conversion, Solid Modeling, seismic depth stretch and volumetrics. (Explorer SGMV and Workflow Guide )
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"Explorer_SGMV_CP
+WORKFLOWGUIDE"|
+"ESB-1924"|"Structural Geology"|"Geologic restoration and balancing (Section and 3D Model).  (GeoSec 2D, GeooSec 3D)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"StructuralInterp_CP"|"Epos 4.0"
+"ESB-1954"|"Geological Cross-Section "|"Well log section construction (GeologSec)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"GeoLogSEC_CP"|"Epos 4.0"
+"ESB-1925"|"Facies Analysis"|"Neural Network seismic facies analysis, reflector geometry analysis, hybrid classification, PCA and seismic facies calibration to wells. (Stratimagic, SeisFacies, NexModel and StratQC)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"Attributes_ALL
+DX_COMMON
+Fastqc
+NX_COMMON
+SM_SEISFACIES
+SM_TRACKER
+STRATIMAGIC_CP"|
+"ESB-1923"|"AVO and Inversion"|"Complete system for AVO (Probe) and impedance (Vanguard) inversion and analysis (Probe, Vanguard RC)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"RockFluid_CP"|
+"ESB-1926"|"Voxel Interpretation"|"Volume interpretation, Geo-body Detection, and Multi-Data cross-plotting (VoxelGeo VI, VXplot) 
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"Voxel_CP
+VOXELGEO"|
+"ESB-1956"|"Automatic Fault Extraction"|"Coherency attribute and Automatic Fault Extraction (requires Voxel Interpretation add-on). (Coherence CubeAtt and AFE)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"AFE_CHC_CP"|
+"ESB-1957"|"Well  Planning "|"Engineering well planning (requires the Voxel add-on) (DirectorGeo)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"IDEAS_PLANNING
+IDEAS_PROXIMITY
+IDEAS_SURVEY
+IDEAS_SYSDRILL
+IDEAS_VOXEL_GEO"|
+"VI-1393"|"IntegralPlus"|"Line-Based Seismic Interpretation "|"P"|"Product"|"GeolDB
+INTEGRALPLUS
+Monitor
+Mtw_output
+Syntseis_output
+Topo"|"CIS ONLY"
+"EP-1896"|"Workflow Guide"|"Guides users through steps of a workflow. Limited release to Statoil and Total only."|"AO"|"Add-on to Explorer EM, MV, SGMV, and Gold "|"WORKFLOWGUIDE"|"Statoil & Total ONLY"
+"DPI-1079
+New"|"Workstation Application Bundle (5 Users)"|"Includes:
+DPI-0185 Interactive Echos License (5 Users)
+DPI-1270 GeoDepth - 2D/3D Velocity Model Building (5 Users)
+EP-1140 CPM CPU Performance Monitoring (5 Users)
+Bundle is only available for corporate deals in China."|"SB"|"Sales Bundle"|"2DPreStackMig_2
+3DPostStackMig_prl
+CPM
+DataServer_OW
+DataServer_GF
+ECHOS
+ECHOS_CT
+ECHOS_EPOS
+Power2D3D"|"Epos 4.1"
+"DPI-1079
+Old"|"Workstation Application Bundle (5 Users)"|"Includes:
+DPI-0185 Interactive Echos License (5 Users)
+DPI-1270 GeoDepth - 2D/3D Velocity Model Building (5 Users)
+EP-1855 ClusterView CPU Performance Monitoring (5 Users)
+Bundle is only available for corporate deals in China."|"SB"|"Sales Bundle"|"CLUSTERVIEW
+CLUSTERVIEW_DMN
+CPM
+DataServer_GF
+DataServer_OW
+ECHOS
+ECHOS_CT
+Power2D3D"|"Epos 4.0"
+"DPI-11954"|"Base CPU Control (16 CPU Cores) for Corporate Bundle"|"Base CPU Control (16 CPU Cores)  for Corporate Bundle DPI-1082
+
+Add-on is only available for corporate deals in China."|"AO"||"3DMIG_CT
+3DTOMO_CT"|"Epos 4.1"
+"ESB-11826"|"Coherence Attribute (for Interpretation Bundles)"|"Coherency Attribute 
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"Attributes_CHC_CP"|"Epos 4.1"
+"ESB-11827"|"Curvature Attribute (for Interpretation Bundles)"|"Volumetric Curvature Attribute for Structural Feature Determination
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"Attributes_CURV_CP"|"Epos 4.1"
+"ESB-11828"|"Automatic Fault Extraction"|"Automatic Fault Extraction (AFE)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"AFE_CP"|"Epos 4.1"
+"ESB-11953"|"Dip Steered Enhancement Attribute (for Interpretation Bundles)"||"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"Attributes_DSE_CP"|"Epos 4.1"
+"ESB-1921"|"Data Admin"|"Project creation and administration.  Data import/export, and administration.
+Bundle is only available for corporate deals. Regional EVP approval required."|"P"|"Product"|"EposDataAdmin
+DataServer_OW
+DataServer_GF
+DataServer_GC"|"Epos 4.1"
+"ESB-1955"|"Seismic Analysis"|"Seismic data conditioning and analysis for interpretation (Echos Lite)
+Add-on is only available for corporate deals. Regional EVP approval required."|"AO"|"Add-on to Standard and Advanced Interpretation Workflow"|"CPM
+ECHOS_CP
+ECHOS_CT"|"Epos 4.1"

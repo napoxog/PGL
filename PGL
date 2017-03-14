@@ -1,0 +1,11 @@
+#!/bin/bash
+if [ -z $HOST ]; then
+export HOST=$HOSTNAME
+elif [ -z $HOSTNAME ]; then
+export HOSTNAME=$HOST
+fi
+echo $HOST $HOSTNAME
+BINPATH=$(dirname ${0})
+$BINPATH/bin/tksh $BINPATH/PGL.tcl $BINPATH/pgversions $BINPATH/pnsversions
+echo $BINPATH
+
